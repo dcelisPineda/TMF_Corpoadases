@@ -10,9 +10,7 @@ try:
                                   database="DWH")
    cursor = connection.cursor()
    postgreSQL_select_Query = """
-SELECT 
-   delito,
-   escoApro,
+SELECT    delito,   escoApro,
    CicloEscoApro idCicloEscoApro,
    case CicloEscoApro
 	    when  1  then 'Primaria'

@@ -17,8 +17,7 @@ try:
       ELSE 0 END rein_delito
       FROM public.fact_corp f
       inner join public.dim_niv_consumo c
-      on f.niv_consu=c.nivel_consumo
-   
+      on f.niv_consu=c.nivel_consumo   
   """ 
    cursor.execute(postgreSQL_select_Query)
    mobile_records = cursor.fetchall()    

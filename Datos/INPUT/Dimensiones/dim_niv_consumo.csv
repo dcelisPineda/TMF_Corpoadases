@@ -1,0 +1,9 @@
+id,nivel_consumo,tratamiento
+1,NO CONSUME,Participacion actividades Prevencion
+2,ABSTINENCIA,Participacion grupos Apoyo
+3,SOCIAL,Seguimiento con psicologia
+4,EXPERIMENTAL,Seguimiento con psicologia
+5,HABITUAL,Tratamiento ambulatorio
+6,PROBLEMATICO,Tratamiento intramural
+
+

@@ -1,0 +1,6 @@
+proyecto_nombre = TFM
+proyecto_Description = Desarrollo de Visualizaciones y Modelos de Descriptivos y Predictivos para medir la prestación del servicio en la “Atención de la sanción Semicerrado, Externado Media Jornada de adolescentes y Jóvenes en Conflicto con la Ley Penal (Santander - Colombia)”.
+BBDD_HOST=127.0.0.1
+BBDD_SHEMA= DWH
+BBDD_USER=postgres
+BBDD_PASS = 123456

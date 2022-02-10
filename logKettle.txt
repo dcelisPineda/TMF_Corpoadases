@@ -1,0 +1,1678 @@
+2021/10/21 23:27:50 - Kitchen - Start of run.
+2021/10/21 23:29:08 - JOB_TFM - Start of job execution
+2021/10/21 23:29:08 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/10/21 23:29:08 - JOB_TFM - Starting entry [CargaInformacionSemicerrado]
+2021/10/21 23:29:08 - CargaInformacionSemicerrado - Using run configuration [Pentaho local]
+2021/10/21 23:29:08 - CargaInformacionSemicerrado - Running transformation using the Kettle execution engine
+2021/10/21 23:29:08 - TFM - Dispatching started for transformation [TFM]
+2021/10/21 23:29:09 - STG_TRABAJO.0 - Connected to database [STG_TRABAJO] (commit=1000)
+2021/10/21 23:29:09 - JOB_TFM - Starting entry [LimpiezaDatos]
+2021/10/21 23:29:09 - LimpiezaDatos - Using run configuration [Pentaho local]
+2021/10/21 23:29:09 - LimpiezaDatos - Running transformation using the Kettle execution engine
+2021/10/21 23:29:09 - Limpieza - Dispatching started for transformation [Limpieza]
+2021/10/21 23:29:09 - STG1_Trabajo.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:10 - CargaTablaSemicerrado.0 - Finished reading query, closing connection.
+2021/10/21 23:29:10 - JOB_TFM - Starting entry [LimpiezaDatos2]
+2021/10/21 23:29:10 - LimpiezaDatos2 - Using run configuration [Pentaho local]
+2021/10/21 23:29:10 - LimpiezaDatos2 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:10 - Limpieza2 - Dispatching started for transformation [Limpieza2]
+2021/10/21 23:29:10 - STG2_Trabajo.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:10 - STG_TRANSFORMAR_DATOS_EDAD.0 - Finished reading query, closing connection.
+2021/10/21 23:29:10 - JOB_TFM - Starting entry [LimpiezaDatos3]
+2021/10/21 23:29:10 - LimpiezaDatos3 - Using run configuration [Pentaho local]
+2021/10/21 23:29:10 - LimpiezaDatos3 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:10 - Limpieza3 - Dispatching started for transformation [Limpieza3]
+2021/10/21 23:29:10 - STG2_1__Trabajo.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:10 - Log_Numero.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:10 - STG_TRANSFORMAR_DATOS_NUMERO.0 - Finished reading query, closing connection.
+2021/10/21 23:29:10 - JOB_TFM - Starting entry [LimpiezaDatos4]
+2021/10/21 23:29:10 - LimpiezaDatos4 - Using run configuration [Pentaho local]
+2021/10/21 23:29:10 - LimpiezaDatos4 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:10 - Limpieza4 - Dispatching started for transformation [Limpieza4]
+2021/10/21 23:29:11 - LOG_STG3_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:11 - STG3_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:11 - STG_REEMPLAZAR_DATOS.0 - Finished reading query, closing connection.
+2021/10/21 23:29:11 - JOB_TFM - Starting entry [LimpiezaDatos5]
+2021/10/21 23:29:11 - LimpiezaDatos5 - Using run configuration [Pentaho local]
+2021/10/21 23:29:11 - LimpiezaDatos5 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:11 - Limpieza5 - Dispatching started for transformation [Limpieza5]
+2021/10/21 23:29:11 - STG4_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:11 - LOG_STG4_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:11 - STG_MODIFICAR_FECHAINGRESO.0 - Finished reading query, closing connection.
+2021/10/21 23:29:11 - JOB_TFM - Starting entry [LimpiezaDatos6]
+2021/10/21 23:29:11 - LimpiezaDatos6 - Using run configuration [Pentaho local]
+2021/10/21 23:29:11 - LimpiezaDatos6 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:11 - Limpieza6 - Dispatching started for transformation [Limpieza6]
+2021/10/21 23:29:11 - STG5_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:11 - LOG_STG5_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:11 - STG_TABLA4.0 - Finished reading query, closing connection.
+2021/10/21 23:29:11 - JOB_TFM - Starting entry [LimpiezaDatos7]
+2021/10/21 23:29:11 - LimpiezaDatos7 - Using run configuration [Pentaho local]
+2021/10/21 23:29:11 - LimpiezaDatos7 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:11 - Limpieza7 - Dispatching started for transformation [Limpieza7]
+2021/10/21 23:29:11 - STG6_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:11 - LOG_STG6_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:11 - STG_TABLA5.0 - Finished reading query, closing connection.
+2021/10/21 23:29:11 - JOB_TFM - Starting entry [Limpieza8]
+2021/10/21 23:29:11 - Limpieza8 - Using run configuration [Pentaho local]
+2021/10/21 23:29:11 - Limpieza8 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:11 - Limpieza8 - Dispatching started for transformation [Limpieza8]
+2021/10/21 23:29:11 - STG_REPORTEDOS.0 - Connected to database [BaseProyecto] (commit=1000)
+2021/10/21 23:29:12 - JOB_TFM - Starting entry [FinalizacionOk]
+2021/10/21 23:29:12 - JOB_TFM - Finished job entry [FinalizacionOk] (result=[true])
+2021/10/21 23:29:12 - JOB_TFM - Finished job entry [Limpieza8] (result=[true])
+2021/10/21 23:29:12 - JOB_TFM - Finished job entry [LimpiezaDatos7] (result=[true])
+2021/10/21 23:29:12 - JOB_TFM - Finished job entry [LimpiezaDatos6] (result=[true])
+2021/10/21 23:29:12 - JOB_TFM - Finished job entry [LimpiezaDatos5] (result=[true])
+2021/10/21 23:29:12 - JOB_TFM - Finished job entry [LimpiezaDatos4] (result=[true])
+2021/10/21 23:29:12 - JOB_TFM - Finished job entry [LimpiezaDatos3] (result=[true])
+2021/10/21 23:29:12 - JOB_TFM - Finished job entry [LimpiezaDatos2] (result=[true])
+2021/10/21 23:29:12 - JOB_TFM - Finished job entry [LimpiezaDatos] (result=[true])
+2021/10/21 23:29:12 - JOB_TFM - Finished job entry [CargaInformacionSemicerrado] (result=[true])
+2021/10/21 23:29:12 - JOB_TFM - Job execution finished
+2021/10/21 23:29:12 - Kitchen - Finished!
+2021/10/21 23:29:12 - Kitchen - Start=2021/10/21 23:27:50.712, Stop=2021/10/21 23:29:12.075
+2021/10/21 23:29:12 - Kitchen - Processing ended after 1 minutes and 21 seconds (81 seconds total).
+2021/10/21 23:29:37 - Kitchen - Start of run.
+2021/10/21 23:29:47 - JOB_TFM - Start of job execution
+2021/10/21 23:29:47 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/10/21 23:29:47 - JOB_TFM - Starting entry [CargaInformacionSemicerrado]
+2021/10/21 23:29:47 - CargaInformacionSemicerrado - Using run configuration [Pentaho local]
+2021/10/21 23:29:47 - CargaInformacionSemicerrado - Running transformation using the Kettle execution engine
+2021/10/21 23:29:47 - TFM - Dispatching started for transformation [TFM]
+2021/10/21 23:29:47 - STG_TRABAJO.0 - Connected to database [STG_TRABAJO] (commit=1000)
+2021/10/21 23:29:47 - JOB_TFM - Starting entry [LimpiezaDatos]
+2021/10/21 23:29:48 - LimpiezaDatos - Using run configuration [Pentaho local]
+2021/10/21 23:29:48 - LimpiezaDatos - Running transformation using the Kettle execution engine
+2021/10/21 23:29:48 - Limpieza - Dispatching started for transformation [Limpieza]
+2021/10/21 23:29:48 - STG1_Trabajo.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:48 - CargaTablaSemicerrado.0 - Finished reading query, closing connection.
+2021/10/21 23:29:48 - JOB_TFM - Starting entry [LimpiezaDatos2]
+2021/10/21 23:29:48 - LimpiezaDatos2 - Using run configuration [Pentaho local]
+2021/10/21 23:29:48 - LimpiezaDatos2 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:48 - Limpieza2 - Dispatching started for transformation [Limpieza2]
+2021/10/21 23:29:48 - STG2_Trabajo.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:48 - STG_TRANSFORMAR_DATOS_EDAD.0 - Finished reading query, closing connection.
+2021/10/21 23:29:48 - JOB_TFM - Starting entry [LimpiezaDatos3]
+2021/10/21 23:29:48 - LimpiezaDatos3 - Using run configuration [Pentaho local]
+2021/10/21 23:29:48 - LimpiezaDatos3 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:48 - Limpieza3 - Dispatching started for transformation [Limpieza3]
+2021/10/21 23:29:48 - Log_Numero.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:48 - STG2_1__Trabajo.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:48 - STG_TRANSFORMAR_DATOS_NUMERO.0 - Finished reading query, closing connection.
+2021/10/21 23:29:48 - JOB_TFM - Starting entry [LimpiezaDatos4]
+2021/10/21 23:29:48 - LimpiezaDatos4 - Using run configuration [Pentaho local]
+2021/10/21 23:29:48 - LimpiezaDatos4 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:48 - Limpieza4 - Dispatching started for transformation [Limpieza4]
+2021/10/21 23:29:48 - STG3_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:48 - LOG_STG3_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:48 - STG_REEMPLAZAR_DATOS.0 - Finished reading query, closing connection.
+2021/10/21 23:29:48 - JOB_TFM - Starting entry [LimpiezaDatos5]
+2021/10/21 23:29:48 - LimpiezaDatos5 - Using run configuration [Pentaho local]
+2021/10/21 23:29:48 - LimpiezaDatos5 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:48 - Limpieza5 - Dispatching started for transformation [Limpieza5]
+2021/10/21 23:29:48 - LOG_STG4_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:48 - STG4_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:48 - STG_MODIFICAR_FECHAINGRESO.0 - Finished reading query, closing connection.
+2021/10/21 23:29:48 - JOB_TFM - Starting entry [LimpiezaDatos6]
+2021/10/21 23:29:48 - LimpiezaDatos6 - Using run configuration [Pentaho local]
+2021/10/21 23:29:48 - LimpiezaDatos6 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:48 - Limpieza6 - Dispatching started for transformation [Limpieza6]
+2021/10/21 23:29:48 - STG5_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:48 - LOG_STG5_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:48 - STG_TABLA4.0 - Finished reading query, closing connection.
+2021/10/21 23:29:49 - JOB_TFM - Starting entry [LimpiezaDatos7]
+2021/10/21 23:29:49 - LimpiezaDatos7 - Using run configuration [Pentaho local]
+2021/10/21 23:29:49 - LimpiezaDatos7 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:49 - Limpieza7 - Dispatching started for transformation [Limpieza7]
+2021/10/21 23:29:49 - LOG_STG6_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:49 - STG6_TRABAJO.0 - Connected to database [ConexionTFM_STG] (commit=1000)
+2021/10/21 23:29:49 - STG_TABLA5.0 - Finished reading query, closing connection.
+2021/10/21 23:29:49 - JOB_TFM - Starting entry [Limpieza8]
+2021/10/21 23:29:49 - Limpieza8 - Using run configuration [Pentaho local]
+2021/10/21 23:29:49 - Limpieza8 - Running transformation using the Kettle execution engine
+2021/10/21 23:29:49 - Limpieza8 - Dispatching started for transformation [Limpieza8]
+2021/10/21 23:29:49 - STG_REPORTEDOS.0 - Connected to database [BaseProyecto] (commit=1000)
+2021/10/21 23:29:49 - JOB_TFM - Starting entry [FinalizacionOk]
+2021/10/21 23:29:49 - JOB_TFM - Finished job entry [FinalizacionOk] (result=[true])
+2021/10/21 23:29:49 - JOB_TFM - Finished job entry [Limpieza8] (result=[true])
+2021/10/21 23:29:49 - JOB_TFM - Finished job entry [LimpiezaDatos7] (result=[true])
+2021/10/21 23:29:49 - JOB_TFM - Finished job entry [LimpiezaDatos6] (result=[true])
+2021/10/21 23:29:49 - JOB_TFM - Finished job entry [LimpiezaDatos5] (result=[true])
+2021/10/21 23:29:49 - JOB_TFM - Finished job entry [LimpiezaDatos4] (result=[true])
+2021/10/21 23:29:49 - JOB_TFM - Finished job entry [LimpiezaDatos3] (result=[true])
+2021/10/21 23:29:49 - JOB_TFM - Finished job entry [LimpiezaDatos2] (result=[true])
+2021/10/21 23:29:49 - JOB_TFM - Finished job entry [LimpiezaDatos] (result=[true])
+2021/10/21 23:29:49 - JOB_TFM - Finished job entry [CargaInformacionSemicerrado] (result=[true])
+2021/10/21 23:29:49 - JOB_TFM - Job execution finished
+2021/10/21 23:29:49 - Kitchen - Finished!
+2021/10/21 23:29:49 - Kitchen - Start=2021/10/21 23:29:37.612, Stop=2021/10/21 23:29:49.513
+2021/10/21 23:29:49 - Kitchen - Processing ended after 11 seconds.
+2021/10/21 23:35:59 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/10/21 23:36:03 - Spoon - Spoon  has ended.
+2021/10/21 23:36:19 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/10/21 23:36:33 - Spoon - Spoon  has ended.
+2021/10/21 23:36:56 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/10/21 23:37:03 - Spoon - Spoon  has ended.
+2021/10/21 23:40:46 - Kitchen - Start of run.
+2021/10/21 23:40:57 - TFM_DWH - Start of job execution
+2021/10/21 23:40:57 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/10/21 23:40:57 - TFM_DWH - Starting entry [ValidarRegistros]
+2021/10/21 23:40:57 - TFM_DWH - Starting entry [RenombrarArchivo.bat]
+2021/10/21 23:40:57 - RenombrarArchivo.bat - Running on platform : Windows 10
+2021/10/21 23:40:57 - RenombrarArchivo.bat - Executing command : cmd.exe /C "D:\Maestria\TFM\BAT\RenombrarArchivo.bat"
+2021/10/21 23:40:57 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:57 - RenombrarArchivo.bat - (stdout) C:\Pentaho\data-integration>D:
+2021/10/21 23:40:57 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:57 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\BAT>cd D:\Maestria\TFM\Datos\INPUT\CargaDatos 
+2021/10/21 23:40:57 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:57 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>echo on 
+2021/10/21 23:40:57 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:57 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>for /F "skip=1" %x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%x 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>if not defined MyDate set MyDate=20211021234058.910000-300 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>if not defined MyDate set MyDate=
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout)  
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set today=2021-10-21 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_year=2021" 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_month=10" 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_day=21" 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set cnt=0 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:58 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>dir /b BASE_*.xlsx /s   2>nul  | find "" /v /c   1>tmp  && set /p count=  0<tmp  && del tmp   && echo  
+2021/10/21 23:40:59 - RenombrarArchivo.bat - (stdout) ECHO est  activado.
+2021/10/21 23:40:59 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:40:59 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>REN  BASE_*.xlsx  BASE_20211012.xlsx 
+2021/10/21 23:40:59 - TFM_DWH - Starting entry [Cargar Informacion]
+2021/10/21 23:40:59 - Cargar Informacion - Using run configuration [Pentaho local]
+2021/10/21 23:40:59 - Cargar Informacion - Running transformation using the Kettle execution engine
+2021/10/21 23:40:59 - CargaInformacion - Dispatching started for transformation [CargaInformacion]
+2021/10/21 23:40:59 - Carga_IN.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:40:59 - Insert_log.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:40:59 - InsertLogTiempo.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:40:59 - TFM_DWH - Starting entry [load_Dimensiones]
+2021/10/21 23:40:59 - load_Dimensiones - Using run configuration [Pentaho local]
+2021/10/21 23:40:59 - load_Dimensiones - Running transformation using the Kettle execution engine
+2021/10/21 23:40:59 - Dimensiones - Dispatching started for transformation [Dimensiones]
+2021/10/21 23:41:00 - LOG_DIM_TIPOfAMILIAR.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - DIM_DIMENSIONES.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - LOG_DIM_DELITOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - log_dim_escolApr.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - LOG_NivelConsumo.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - DIM_TIP_FAMILIAR.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - DIM_ESCOLARIDAD.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - DIM_OCUPACION.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - DIM_NIVEL_CONSUMO.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - log_SitContable.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - DIM_GENERO.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - log_Dim_Genero 2.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - DIM_SIT_JOVEN.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - log_Dim_Genero.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:00 - TBL_NivConsumo.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_niv_consumo.csv'
+2021/10/21 23:41:00 - TBL_Ocupacion.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_ocupacion.csv'
+2021/10/21 23:41:00 - TBL_Escolaridad.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_escolaridad.csv'
+2021/10/21 23:41:00 - TBL_Genero.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_genero.csv'
+2021/10/21 23:41:00 - TBL_Delito.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_delito.csv'
+2021/10/21 23:41:00 - TBL_tipFamiliar.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_tip_familiar.csv'
+2021/10/21 23:41:00 - TBL_sit_joven.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_sit_joven.csv'
+2021/10/21 23:41:00 - NombreDimension.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:41:00 - NombreOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:41:00 - TBL_Escolaridad.0 - Finished processing (I=14, O=0, R=0, W=13, U=0, E=0)
+2021/10/21 23:41:00 - TBL_Genero.0 - Finished processing (I=3, O=0, R=0, W=2, U=0, E=0)
+2021/10/21 23:41:00 - TBL_NivConsumo.0 - Finished processing (I=6, O=0, R=0, W=5, U=0, E=0)
+2021/10/21 23:41:00 - TBL_Ocupacion.0 - Finished processing (I=5, O=0, R=0, W=4, U=0, E=0)
+2021/10/21 23:41:00 - NombrDim_TipFamiliar.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:41:00 - NombreSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:41:00 - TBL_sit_joven.0 - Finished processing (I=9, O=0, R=0, W=8, U=0, E=0)
+2021/10/21 23:41:00 - NombrDimension.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/21 23:41:00 - NombreEstudiar.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:41:00 - TBL_Delito.0 - Finished processing (I=24, O=0, R=0, W=23, U=0, E=0)
+2021/10/21 23:41:00 - TBL_tipFamiliar.0 - Finished processing (I=8, O=0, R=0, W=7, U=0, E=0)
+2021/10/21 23:41:00 - NombreGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:00 - ValidacionGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:00 - ValidacionooOCUPACION.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:41:00 - Validacion.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:00 - Validacion 2.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:41:00 - OrdenarFila3.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:00 - OrdenarFila3 2.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:41:00 - RegistroValidacionGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:00 - RegistroValidacionOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:41:00 - ValidarNivConsumo.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:41:00 - Add sequence.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:00 - ValidarFuncionTip.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:41:00 - ValidacionSit.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:41:00 - Add sequenceOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:41:00 - ValidacionFuncion.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:41:00 - ValidarEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:41:00 - ValidacionSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:41:00 - ValidarFuncion.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:41:00 - ValidarFunction.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/21 23:41:00 - OrdenarFila.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:41:00 - OrdenarFilas 2.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:41:00 - Ordenar Fila.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:41:00 - ValidadorEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:41:00 - RegistroUnicoSitConta.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:41:00 - RegistroUnico_Consulta.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:41:00 - RegistroUnicoTFami.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:41:00 - Validador.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/21 23:41:00 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:41:00 - Ordenar_Fila.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/21 23:41:00 - RegistroUnicoEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:41:00 - NumeroIDDimension.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:41:00 - NumeroIdSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:41:00 - NumeroIdSecuencia.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:41:00 - RegistroUnico.0 - Finished processing (I=0, O=0, R=23, W=21, U=0, E=0)
+2021/10/21 23:41:00 - NumeroIdentidacion_Escola.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:41:00 - Numero_IDentificacion.0 - Finished processing (I=0, O=0, R=21, W=21, U=0, E=0)
+2021/10/21 23:41:01 - DIM_TIP_FAMILIAR.0 - Finished processing (I=0, O=7, R=7, W=7, U=0, E=0)
+2021/10/21 23:41:01 - DIM_NIVEL_CONSUMO.0 - Finished processing (I=0, O=5, R=5, W=5, U=0, E=0)
+2021/10/21 23:41:01 - DIM_ESCOLARIDAD.0 - Finished processing (I=0, O=13, R=13, W=13, U=0, E=0)
+2021/10/21 23:41:01 - DIM_DIMENSIONES.0 - Finished processing (I=0, O=21, R=21, W=21, U=0, E=0)
+2021/10/21 23:41:01 - DIM_GENERO.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:01 - DIM_OCUPACION.0 - Finished processing (I=0, O=4, R=4, W=4, U=0, E=0)
+2021/10/21 23:41:01 - DIM_SIT_JOVEN.0 - Finished processing (I=0, O=8, R=8, W=8, U=0, E=0)
+2021/10/21 23:41:01 - TFM_DWH - Starting entry [STG1_HECHOS]
+2021/10/21 23:41:01 - STG1_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:41:01 - STG1_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:41:01 - STG1_Hechos - Dispatching started for transformation [STG1_Hechos]
+2021/10/21 23:41:01 - STG1_Hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:01 - log_stg1_hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:01 - TBL_DIMENSIONES.0 - Finished reading query, closing connection.
+2021/10/21 23:41:01 - TBL_DIMENSIONES.0 - Finished processing (I=21, O=0, R=0, W=21, U=0, E=0)
+2021/10/21 23:41:01 - OrdenarDelitos.0 - Finished processing (I=0, O=0, R=21, W=21, U=0, E=0)
+2021/10/21 23:41:01 - cor_in_base.0 - Finished reading query, closing connection.
+2021/10/21 23:41:01 - cor_in_base.0 - Finished processing (I=486, O=0, R=0, W=486, U=0, E=0)
+2021/10/21 23:41:01 - NombreDelito.0 - Finished processing (I=0, O=0, R=486, W=486, U=0, E=0)
+2021/10/21 23:41:01 - ValidacionPalabra.0 - Finished processing (I=0, O=0, R=486, W=486, U=0, E=0)
+2021/10/21 23:41:01 - JoinDelitos_Hechos.0 - Finished processing (I=0, O=0, R=507, W=486, U=0, E=0)
+2021/10/21 23:41:01 - Validador.0 - Finished processing (I=0, O=0, R=486, W=484, U=0, E=2)
+2021/10/21 23:41:01 - Error.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:01 - log_stg1_hechos.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:01 - STG1_Hechos.0 - Finished processing (I=0, O=484, R=484, W=484, U=0, E=0)
+2021/10/21 23:41:01 - TFM_DWH - Starting entry [STG2_HECHOS]
+2021/10/21 23:41:01 - STG2_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:41:01 - STG2_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:41:01 - STG2_Hechos - Dispatching started for transformation [STG2_Hechos]
+2021/10/21 23:41:01 - log_stg2_hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:01 - STG2_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:01 - TBL_TipFamiliar.0 - Finished reading query, closing connection.
+2021/10/21 23:41:01 - TBL_TipFamiliar.0 - Finished processing (I=7, O=0, R=0, W=7, U=0, E=0)
+2021/10/21 23:41:01 - STG1_Hechos.0 - Finished reading query, closing connection.
+2021/10/21 23:41:01 - STG1_Hechos.0 - Finished processing (I=484, O=0, R=0, W=484, U=0, E=0)
+2021/10/21 23:41:01 - OrdenarTipFamiliar.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:41:01 - NombreTipoFamilia.0 - Finished processing (I=0, O=0, R=484, W=484, U=0, E=0)
+2021/10/21 23:41:01 - ValidacionTipFamiliar.0 - Finished processing (I=0, O=0, R=484, W=484, U=0, E=0)
+2021/10/21 23:41:02 - JoinTipoFamiliar.0 - Finished processing (I=0, O=0, R=491, W=484, U=0, E=0)
+2021/10/21 23:41:02 - Validador.0 - Finished processing (I=0, O=0, R=484, W=466, U=0, E=18)
+2021/10/21 23:41:02 - Error.0 - Finished processing (I=0, O=0, R=18, W=18, U=0, E=0)
+2021/10/21 23:41:02 - log_stg2_hechos.0 - Finished processing (I=0, O=18, R=18, W=18, U=0, E=0)
+2021/10/21 23:41:02 - STG2_HECHOS.0 - Finished processing (I=0, O=466, R=466, W=466, U=0, E=0)
+2021/10/21 23:41:02 - TFM_DWH - Starting entry [STG3_HECHOS]
+2021/10/21 23:41:02 - STG3_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:41:02 - STG3_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:41:02 - STG3_Hechos - Dispatching started for transformation [STG3_Hechos]
+2021/10/21 23:41:02 - LOG_STG3_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:02 - STG3_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:02 - TBL_NivelConsumo.0 - Finished reading query, closing connection.
+2021/10/21 23:41:02 - TBL_NivelConsumo.0 - Finished processing (I=5, O=0, R=0, W=5, U=0, E=0)
+2021/10/21 23:41:02 - STG2_HECHOS.0 - Finished reading query, closing connection.
+2021/10/21 23:41:02 - STG2_HECHOS.0 - Finished processing (I=466, O=0, R=0, W=466, U=0, E=0)
+2021/10/21 23:41:02 - dimension.0 - Finished processing (I=0, O=0, R=466, W=466, U=0, E=0)
+2021/10/21 23:41:02 - ValidacionNivelConsumo.0 - Finished processing (I=0, O=0, R=466, W=466, U=0, E=0)
+2021/10/21 23:41:02 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:41:02 - JoinValidacion.0 - Finished processing (I=0, O=0, R=471, W=466, U=0, E=0)
+2021/10/21 23:41:02 - valiidador.0 - Finished processing (I=0, O=0, R=466, W=305, U=0, E=161)
+2021/10/21 23:41:02 - Error.0 - Finished processing (I=0, O=0, R=161, W=161, U=0, E=0)
+2021/10/21 23:41:02 - LOG_STG3_HECHOS.0 - Finished processing (I=0, O=161, R=161, W=161, U=0, E=0)
+2021/10/21 23:41:02 - STG3_HECHOS.0 - Finished processing (I=0, O=305, R=305, W=305, U=0, E=0)
+2021/10/21 23:41:02 - TFM_DWH - Starting entry [STG4_HECHOS]
+2021/10/21 23:41:02 - STG4_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:41:02 - STG4_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:41:02 - STG4_Hechos - Dispatching started for transformation [STG4_Hechos]
+2021/10/21 23:41:02 - LOG_STG4_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:02 - STG4_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:02 - TBL_sit_joven.0 - Finished reading query, closing connection.
+2021/10/21 23:41:02 - TBL_sit_joven.0 - Finished processing (I=8, O=0, R=0, W=8, U=0, E=0)
+2021/10/21 23:41:02 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:41:02 - STG3_HECHOS.0 - Finished reading query, closing connection.
+2021/10/21 23:41:02 - STG3_HECHOS.0 - Finished processing (I=305, O=0, R=0, W=305, U=0, E=0)
+2021/10/21 23:41:02 - dimension.0 - Finished processing (I=0, O=0, R=305, W=305, U=0, E=0)
+2021/10/21 23:41:02 - ValidacionSit.0 - Finished processing (I=0, O=0, R=305, W=305, U=0, E=0)
+2021/10/21 23:41:03 - ValidacionSitJoven.0 - Finished processing (I=0, O=0, R=313, W=305, U=0, E=0)
+2021/10/21 23:41:03 - valiidador.0 - Finished processing (I=0, O=0, R=305, W=252, U=0, E=53)
+2021/10/21 23:41:03 - Error.0 - Finished processing (I=0, O=0, R=53, W=53, U=0, E=0)
+2021/10/21 23:41:03 - LOG_STG4_HECHOS.0 - Finished processing (I=0, O=53, R=53, W=53, U=0, E=0)
+2021/10/21 23:41:03 - STG4_HECHOS.0 - Finished processing (I=0, O=252, R=252, W=252, U=0, E=0)
+2021/10/21 23:41:03 - TFM_DWH - Starting entry [STG5_HECHOS]
+2021/10/21 23:41:03 - STG5_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:41:03 - STG5_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:41:03 - STG5_Hechos - Dispatching started for transformation [STG5_Hechos]
+2021/10/21 23:41:03 - LOG_STG5_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:03 - STG5_Hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:03 - TBL_genero.0 - Finished reading query, closing connection.
+2021/10/21 23:41:03 - TBL_genero.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2021/10/21 23:41:03 - STG4_HECHOS.0 - Finished reading query, closing connection.
+2021/10/21 23:41:03 - STG4_HECHOS.0 - Finished processing (I=252, O=0, R=0, W=252, U=0, E=0)
+2021/10/21 23:41:03 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:03 - dimensionGenero.0 - Finished processing (I=0, O=0, R=252, W=252, U=0, E=0)
+2021/10/21 23:41:03 - ValidacionPalabra.0 - Finished processing (I=0, O=0, R=252, W=252, U=0, E=0)
+2021/10/21 23:41:03 - ValidacionGeneracion.0 - Finished processing (I=0, O=0, R=254, W=252, U=0, E=0)
+2021/10/21 23:41:03 - Validador.0 - Finished processing (I=0, O=0, R=252, W=251, U=0, E=1)
+2021/10/21 23:41:03 - Error.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2021/10/21 23:41:03 - STG5_Hechos.0 - Finished processing (I=0, O=251, R=251, W=251, U=0, E=0)
+2021/10/21 23:41:03 - LOG_STG5_HECHOS.0 - Finished processing (I=0, O=1, R=1, W=1, U=0, E=0)
+2021/10/21 23:41:03 - TFM_DWH - Starting entry [STG6_HECHOS]
+2021/10/21 23:41:03 - STG6_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:41:03 - STG6_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:41:03 - STG6_Hechos - Dispatching started for transformation [STG6_Hechos]
+2021/10/21 23:41:03 - LOG_STG6_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:03 - STG6_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:03 - TBL_Estudio.0 - Finished reading query, closing connection.
+2021/10/21 23:41:03 - TBL_Estudio.0 - Finished processing (I=13, O=0, R=0, W=13, U=0, E=0)
+2021/10/21 23:41:03 - OrdenFila.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:41:03 - STG5_Hechos.0 - Finished reading query, closing connection.
+2021/10/21 23:41:03 - STG5_Hechos.0 - Finished processing (I=251, O=0, R=0, W=251, U=0, E=0)
+2021/10/21 23:41:03 - dimensionEstudio.0 - Finished processing (I=0, O=0, R=251, W=251, U=0, E=0)
+2021/10/21 23:41:03 - ValidarEstudio.0 - Finished processing (I=0, O=0, R=251, W=251, U=0, E=0)
+2021/10/21 23:41:04 - CruceDimension.0 - Finished processing (I=0, O=0, R=264, W=251, U=0, E=0)
+2021/10/21 23:41:04 - Validador.0 - Finished processing (I=0, O=0, R=251, W=248, U=0, E=3)
+2021/10/21 23:41:04 - Error.0 - Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2021/10/21 23:41:04 - LOG_STG6_HECHOS.0 - Finished processing (I=0, O=3, R=3, W=3, U=0, E=0)
+2021/10/21 23:41:04 - STG6_HECHOS.0 - Finished processing (I=0, O=248, R=248, W=248, U=0, E=0)
+2021/10/21 23:41:04 - TFM_DWH - Starting entry [STG7_HECHOS]
+2021/10/21 23:41:04 - STG7_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:41:04 - STG7_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:41:04 - STG7_Hechos - Dispatching started for transformation [STG7_Hechos]
+2021/10/21 23:41:04 - STG7_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:04 - LOG_STG7_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:04 - TBL_Estudio.0 - Finished reading query, closing connection.
+2021/10/21 23:41:04 - TBL_Estudio.0 - Finished processing (I=13, O=0, R=0, W=13, U=0, E=0)
+2021/10/21 23:41:04 - STG6_HECHOS.0 - Finished reading query, closing connection.
+2021/10/21 23:41:04 - Order.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:41:04 - STG6_HECHOS.0 - Finished processing (I=248, O=0, R=0, W=248, U=0, E=0)
+2021/10/21 23:41:04 - dimensionEstudio.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/10/21 23:41:04 - Validacion.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/10/21 23:41:04 - CruceDimension.0 - Finished processing (I=0, O=0, R=261, W=248, U=0, E=0)
+2021/10/21 23:41:04 - Validador.0 - Finished processing (I=0, O=0, R=248, W=246, U=0, E=2)
+2021/10/21 23:41:04 - Error.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:04 - LOG_STG7_HECHOS.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/21 23:41:05 - STG7_HECHOS.0 - Finished processing (I=0, O=246, R=246, W=246, U=0, E=0)
+2021/10/21 23:41:05 - TFM_DWH - Starting entry [FACT_CORP]
+2021/10/21 23:41:05 - FACT_CORP - Using run configuration [Pentaho local]
+2021/10/21 23:41:05 - FACT_CORP - Running transformation using the Kettle execution engine
+2021/10/21 23:41:05 - FACT_CORP - Dispatching started for transformation [FACT_CORP]
+2021/10/21 23:41:05 - FACT_CORP.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:41:05 - FACT_NUEVOS.0 - Finished reading query, closing connection.
+2021/10/21 23:41:05 - FACT_NUEVOS.0 - Finished processing (I=246, O=0, R=0, W=246, U=0, E=0)
+2021/10/21 23:41:05 - STG7_HECHOS.0 - Finished reading query, closing connection.
+2021/10/21 23:41:05 - STG7_HECHOS.0 - Finished processing (I=246, O=0, R=0, W=246, U=0, E=0)
+2021/10/21 23:41:05 - Delete.0 - Finished processing (I=0, O=0, R=246, W=246, U=246, E=0)
+2021/10/21 23:41:05 - InnerJoin_DatosUnicos.0 - Finished processing (I=0, O=0, R=492, W=246, U=0, E=0)
+2021/10/21 23:41:05 - AdicionarSecuencia.0 - Finished processing (I=0, O=0, R=246, W=246, U=0, E=0)
+2021/10/21 23:41:05 - FACT_CORP.0 - Finished processing (I=0, O=246, R=246, W=246, U=0, E=0)
+2021/10/21 23:41:05 - TFM_DWH - Starting entry [MoverArchivo.bat]
+2021/10/21 23:41:05 - MoverArchivo.bat - Running on platform : Windows 10
+2021/10/21 23:41:05 - MoverArchivo.bat - Executing command : cmd.exe /C "D:\Maestria\TFM\BAT\MoverArchivo.bat"
+2021/10/21 23:41:05 - MoverArchivo.bat - (stdout) 
+2021/10/21 23:41:05 - MoverArchivo.bat - (stdout) C:\Pentaho\data-integration>D:
+2021/10/21 23:41:05 - MoverArchivo.bat - (stdout) 
+2021/10/21 23:41:05 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\BAT>cd D:\Maestria\TFM\Datos\INPUT\CargaDatos 
+2021/10/21 23:41:05 - MoverArchivo.bat - (stdout) 
+2021/10/21 23:41:05 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>MOVE BASE_*.xlsx Archivos_Procesados 
+2021/10/21 23:41:05 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos\BASE_20211012.xlsx
+2021/10/21 23:41:05 - MoverArchivo.bat - (stdout) Se han movido         1 archivos.
+2021/10/21 23:41:05 - TFM_DWH - Starting entry [Success]
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [Success] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [MoverArchivo.bat] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [FACT_CORP] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [STG7_HECHOS] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [STG6_HECHOS] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [STG5_HECHOS] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [STG4_HECHOS] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [STG3_HECHOS] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [STG2_HECHOS] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [STG1_HECHOS] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [load_Dimensiones] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [Cargar Informacion] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [RenombrarArchivo.bat] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Finished job entry [ValidarRegistros] (result=[true])
+2021/10/21 23:41:05 - TFM_DWH - Job execution finished
+2021/10/21 23:41:05 - Kitchen - Finished!
+2021/10/21 23:41:05 - Kitchen - Start=2021/10/21 23:40:46.668, Stop=2021/10/21 23:41:05.774
+2021/10/21 23:41:05 - Kitchen - Processing ended after 19 seconds.
+2021/10/21 23:43:24 - Kitchen - Start of run.
+2021/10/21 23:43:30 - INICIO_MALLA - Start of job execution
+2021/10/21 23:43:30 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/10/21 23:43:30 - INICIO_MALLA - Starting entry [DWH]
+2021/10/21 23:43:30 - DWH - Using run configuration [Pentaho local]
+2021/10/21 23:43:30 - TFM_DWH - Starting entry [ValidarRegistros]
+2021/10/21 23:43:30 - TFM_DWH - Starting entry [RenombrarArchivo.bat]
+2021/10/21 23:43:30 - RenombrarArchivo.bat - Running on platform : Windows 10
+2021/10/21 23:43:30 - RenombrarArchivo.bat - Executing command : cmd.exe /C "D:\Maestria\TFM\BAT\RenombrarArchivo.bat"
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) C:\Pentaho\data-integration>D:
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\BAT>cd D:\Maestria\TFM\Datos\INPUT\CargaDatos 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>echo on 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>for /F "skip=1" %x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%x 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>if not defined MyDate set MyDate=20211021234330.601000-300 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>if not defined MyDate set MyDate=
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout)  
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set today=2021-10-21 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_year=2021" 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_month=10" 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_day=21" 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set cnt=0 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>dir /b BASE_*.xlsx /s   2>nul  | find "" /v /c   1>tmp  && set /p count=  0<tmp  && del tmp   && echo  
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) ECHO est  activado.
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) 
+2021/10/21 23:43:30 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>REN  BASE_*.xlsx  BASE_20211012.xlsx 
+2021/10/21 23:43:30 - TFM_DWH - Starting entry [Cargar Informacion]
+2021/10/21 23:43:30 - Cargar Informacion - Using run configuration [Pentaho local]
+2021/10/21 23:43:30 - Cargar Informacion - Running transformation using the Kettle execution engine
+2021/10/21 23:43:30 - CargaInformacion - Dispatching started for transformation [CargaInformacion]
+2021/10/21 23:43:31 - Insert_log.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - Carga_IN.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - InsertLogTiempo.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - TFM_DWH - Starting entry [load_Dimensiones]
+2021/10/21 23:43:31 - load_Dimensiones - Using run configuration [Pentaho local]
+2021/10/21 23:43:31 - load_Dimensiones - Running transformation using the Kettle execution engine
+2021/10/21 23:43:31 - Dimensiones - Dispatching started for transformation [Dimensiones]
+2021/10/21 23:43:31 - LOG_DIM_TIPOfAMILIAR.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - DIM_DIMENSIONES.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - LOG_DIM_DELITOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - DIM_SIT_JOVEN.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - log_SitContable.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - DIM_NIVEL_CONSUMO.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - DIM_ESCOLARIDAD.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - DIM_TIP_FAMILIAR.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - log_Dim_Genero.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - DIM_GENERO.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - log_dim_escolApr.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - LOG_NivelConsumo.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - log_Dim_Genero 2.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - DIM_OCUPACION.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - TBL_Ocupacion.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_ocupacion.csv'
+2021/10/21 23:43:31 - TBL_sit_joven.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_sit_joven.csv'
+2021/10/21 23:43:31 - TBL_NivConsumo.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_niv_consumo.csv'
+2021/10/21 23:43:31 - TBL_Delito.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_delito.csv'
+2021/10/21 23:43:31 - TBL_Escolaridad.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_escolaridad.csv'
+2021/10/21 23:43:31 - TBL_tipFamiliar.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_tip_familiar.csv'
+2021/10/21 23:43:31 - TBL_Genero.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_genero.csv'
+2021/10/21 23:43:31 - TBL_sit_joven.0 - Finished processing (I=9, O=0, R=0, W=8, U=0, E=0)
+2021/10/21 23:43:31 - TBL_NivConsumo.0 - Finished processing (I=6, O=0, R=0, W=5, U=0, E=0)
+2021/10/21 23:43:31 - TBL_Ocupacion.0 - Finished processing (I=5, O=0, R=0, W=4, U=0, E=0)
+2021/10/21 23:43:31 - TBL_Escolaridad.0 - Finished processing (I=14, O=0, R=0, W=13, U=0, E=0)
+2021/10/21 23:43:31 - TBL_tipFamiliar.0 - Finished processing (I=8, O=0, R=0, W=7, U=0, E=0)
+2021/10/21 23:43:31 - TBL_Genero.0 - Finished processing (I=3, O=0, R=0, W=2, U=0, E=0)
+2021/10/21 23:43:31 - NombreOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:43:31 - NombreSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:43:31 - TBL_Delito.0 - Finished processing (I=24, O=0, R=0, W=23, U=0, E=0)
+2021/10/21 23:43:31 - NombreDimension.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:43:31 - NombreEstudiar.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:43:31 - NombrDimension.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/21 23:43:31 - NombrDim_TipFamiliar.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:43:31 - NombreGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:31 - ValidacionGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:31 - ValidacionooOCUPACION.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:43:31 - ValidarFuncionTip.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:43:31 - ValidacionSit.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:43:31 - ValidarNivConsumo.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:43:31 - ValidarEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:43:31 - Validacion.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:31 - Validacion 2.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:43:31 - ValidacionFuncion.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:43:31 - ValidacionSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:43:31 - ValidarFuncion.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:43:31 - OrdenarFila3.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:31 - ValidadorEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:43:31 - ValidarFunction.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/21 23:43:31 - RegistroValidacionGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:31 - Ordenar Fila.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:43:31 - OrdenarFilas 2.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:43:31 - OrdenarFila3 2.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:43:31 - OrdenarFila.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:43:31 - RegistroUnicoSitConta.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:43:31 - RegistroUnicoTFami.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:43:31 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:43:31 - Add sequence.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:31 - RegistroUnicoEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:43:31 - NumeroIdSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:43:31 - RegistroUnico_Consulta.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:43:31 - Validador.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/21 23:43:31 - Add sequenceOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:43:31 - RegistroValidacionOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/21 23:43:31 - NumeroIDDimension.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:43:31 - NumeroIdentidacion_Escola.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:43:31 - NumeroIdSecuencia.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:43:31 - Ordenar_Fila.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/21 23:43:31 - RegistroUnico.0 - Finished processing (I=0, O=0, R=23, W=21, U=0, E=0)
+2021/10/21 23:43:31 - Numero_IDentificacion.0 - Finished processing (I=0, O=0, R=21, W=21, U=0, E=0)
+2021/10/21 23:43:31 - DIM_GENERO.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:31 - DIM_ESCOLARIDAD.0 - Finished processing (I=0, O=13, R=13, W=13, U=0, E=0)
+2021/10/21 23:43:31 - DIM_TIP_FAMILIAR.0 - Finished processing (I=0, O=7, R=7, W=7, U=0, E=0)
+2021/10/21 23:43:31 - DIM_SIT_JOVEN.0 - Finished processing (I=0, O=8, R=8, W=8, U=0, E=0)
+2021/10/21 23:43:31 - DIM_OCUPACION.0 - Finished processing (I=0, O=4, R=4, W=4, U=0, E=0)
+2021/10/21 23:43:31 - DIM_DIMENSIONES.0 - Finished processing (I=0, O=21, R=21, W=21, U=0, E=0)
+2021/10/21 23:43:31 - DIM_NIVEL_CONSUMO.0 - Finished processing (I=0, O=5, R=5, W=5, U=0, E=0)
+2021/10/21 23:43:31 - TFM_DWH - Starting entry [STG1_HECHOS]
+2021/10/21 23:43:31 - STG1_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:43:31 - STG1_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:43:31 - STG1_Hechos - Dispatching started for transformation [STG1_Hechos]
+2021/10/21 23:43:31 - log_stg1_hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - STG1_Hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:31 - TBL_DIMENSIONES.0 - Finished reading query, closing connection.
+2021/10/21 23:43:31 - TBL_DIMENSIONES.0 - Finished processing (I=21, O=0, R=0, W=21, U=0, E=0)
+2021/10/21 23:43:31 - OrdenarDelitos.0 - Finished processing (I=0, O=0, R=21, W=21, U=0, E=0)
+2021/10/21 23:43:31 - cor_in_base.0 - Finished reading query, closing connection.
+2021/10/21 23:43:31 - cor_in_base.0 - Finished processing (I=486, O=0, R=0, W=486, U=0, E=0)
+2021/10/21 23:43:31 - NombreDelito.0 - Finished processing (I=0, O=0, R=486, W=486, U=0, E=0)
+2021/10/21 23:43:31 - ValidacionPalabra.0 - Finished processing (I=0, O=0, R=486, W=486, U=0, E=0)
+2021/10/21 23:43:32 - JoinDelitos_Hechos.0 - Finished processing (I=0, O=0, R=507, W=486, U=0, E=0)
+2021/10/21 23:43:32 - Validador.0 - Finished processing (I=0, O=0, R=486, W=484, U=0, E=2)
+2021/10/21 23:43:32 - Error.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:32 - log_stg1_hechos.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:32 - STG1_Hechos.0 - Finished processing (I=0, O=484, R=484, W=484, U=0, E=0)
+2021/10/21 23:43:32 - TFM_DWH - Starting entry [STG2_HECHOS]
+2021/10/21 23:43:32 - STG2_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:43:32 - STG2_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:43:32 - STG2_Hechos - Dispatching started for transformation [STG2_Hechos]
+2021/10/21 23:43:32 - STG2_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:32 - log_stg2_hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:32 - TBL_TipFamiliar.0 - Finished reading query, closing connection.
+2021/10/21 23:43:32 - TBL_TipFamiliar.0 - Finished processing (I=7, O=0, R=0, W=7, U=0, E=0)
+2021/10/21 23:43:32 - STG1_Hechos.0 - Finished reading query, closing connection.
+2021/10/21 23:43:32 - STG1_Hechos.0 - Finished processing (I=484, O=0, R=0, W=484, U=0, E=0)
+2021/10/21 23:43:32 - OrdenarTipFamiliar.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/21 23:43:32 - NombreTipoFamilia.0 - Finished processing (I=0, O=0, R=484, W=484, U=0, E=0)
+2021/10/21 23:43:32 - ValidacionTipFamiliar.0 - Finished processing (I=0, O=0, R=484, W=484, U=0, E=0)
+2021/10/21 23:43:32 - JoinTipoFamiliar.0 - Finished processing (I=0, O=0, R=491, W=484, U=0, E=0)
+2021/10/21 23:43:32 - Validador.0 - Finished processing (I=0, O=0, R=484, W=466, U=0, E=18)
+2021/10/21 23:43:32 - Error.0 - Finished processing (I=0, O=0, R=18, W=18, U=0, E=0)
+2021/10/21 23:43:32 - log_stg2_hechos.0 - Finished processing (I=0, O=18, R=18, W=18, U=0, E=0)
+2021/10/21 23:43:32 - STG2_HECHOS.0 - Finished processing (I=0, O=466, R=466, W=466, U=0, E=0)
+2021/10/21 23:43:32 - TFM_DWH - Starting entry [STG3_HECHOS]
+2021/10/21 23:43:32 - STG3_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:43:32 - STG3_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:43:32 - STG3_Hechos - Dispatching started for transformation [STG3_Hechos]
+2021/10/21 23:43:32 - LOG_STG3_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:32 - STG3_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:32 - TBL_NivelConsumo.0 - Finished reading query, closing connection.
+2021/10/21 23:43:32 - TBL_NivelConsumo.0 - Finished processing (I=5, O=0, R=0, W=5, U=0, E=0)
+2021/10/21 23:43:32 - STG2_HECHOS.0 - Finished reading query, closing connection.
+2021/10/21 23:43:32 - STG2_HECHOS.0 - Finished processing (I=466, O=0, R=0, W=466, U=0, E=0)
+2021/10/21 23:43:32 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/21 23:43:32 - dimension.0 - Finished processing (I=0, O=0, R=466, W=466, U=0, E=0)
+2021/10/21 23:43:32 - ValidacionNivelConsumo.0 - Finished processing (I=0, O=0, R=466, W=466, U=0, E=0)
+2021/10/21 23:43:32 - JoinValidacion.0 - Finished processing (I=0, O=0, R=471, W=466, U=0, E=0)
+2021/10/21 23:43:32 - valiidador.0 - Finished processing (I=0, O=0, R=466, W=305, U=0, E=161)
+2021/10/21 23:43:32 - Error.0 - Finished processing (I=0, O=0, R=161, W=161, U=0, E=0)
+2021/10/21 23:43:32 - LOG_STG3_HECHOS.0 - Finished processing (I=0, O=161, R=161, W=161, U=0, E=0)
+2021/10/21 23:43:33 - STG3_HECHOS.0 - Finished processing (I=0, O=305, R=305, W=305, U=0, E=0)
+2021/10/21 23:43:33 - TFM_DWH - Starting entry [STG4_HECHOS]
+2021/10/21 23:43:33 - STG4_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:43:33 - STG4_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:43:33 - STG4_Hechos - Dispatching started for transformation [STG4_Hechos]
+2021/10/21 23:43:33 - LOG_STG4_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:33 - STG4_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:33 - TBL_sit_joven.0 - Finished reading query, closing connection.
+2021/10/21 23:43:33 - TBL_sit_joven.0 - Finished processing (I=8, O=0, R=0, W=8, U=0, E=0)
+2021/10/21 23:43:33 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/21 23:43:33 - STG3_HECHOS.0 - Finished reading query, closing connection.
+2021/10/21 23:43:33 - STG3_HECHOS.0 - Finished processing (I=305, O=0, R=0, W=305, U=0, E=0)
+2021/10/21 23:43:33 - dimension.0 - Finished processing (I=0, O=0, R=305, W=305, U=0, E=0)
+2021/10/21 23:43:33 - ValidacionSit.0 - Finished processing (I=0, O=0, R=305, W=305, U=0, E=0)
+2021/10/21 23:43:33 - ValidacionSitJoven.0 - Finished processing (I=0, O=0, R=313, W=305, U=0, E=0)
+2021/10/21 23:43:33 - valiidador.0 - Finished processing (I=0, O=0, R=305, W=252, U=0, E=53)
+2021/10/21 23:43:33 - Error.0 - Finished processing (I=0, O=0, R=53, W=53, U=0, E=0)
+2021/10/21 23:43:33 - LOG_STG4_HECHOS.0 - Finished processing (I=0, O=53, R=53, W=53, U=0, E=0)
+2021/10/21 23:43:33 - STG4_HECHOS.0 - Finished processing (I=0, O=252, R=252, W=252, U=0, E=0)
+2021/10/21 23:43:33 - TFM_DWH - Starting entry [STG5_HECHOS]
+2021/10/21 23:43:33 - STG5_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:43:33 - STG5_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:43:33 - STG5_Hechos - Dispatching started for transformation [STG5_Hechos]
+2021/10/21 23:43:33 - STG5_Hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:33 - LOG_STG5_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:33 - TBL_genero.0 - Finished reading query, closing connection.
+2021/10/21 23:43:33 - TBL_genero.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2021/10/21 23:43:33 - STG4_HECHOS.0 - Finished reading query, closing connection.
+2021/10/21 23:43:33 - STG4_HECHOS.0 - Finished processing (I=252, O=0, R=0, W=252, U=0, E=0)
+2021/10/21 23:43:33 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:33 - dimensionGenero.0 - Finished processing (I=0, O=0, R=252, W=252, U=0, E=0)
+2021/10/21 23:43:33 - ValidacionPalabra.0 - Finished processing (I=0, O=0, R=252, W=252, U=0, E=0)
+2021/10/21 23:43:33 - ValidacionGeneracion.0 - Finished processing (I=0, O=0, R=254, W=252, U=0, E=0)
+2021/10/21 23:43:33 - Validador.0 - Finished processing (I=0, O=0, R=252, W=251, U=0, E=1)
+2021/10/21 23:43:33 - Error.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2021/10/21 23:43:33 - LOG_STG5_HECHOS.0 - Finished processing (I=0, O=1, R=1, W=1, U=0, E=0)
+2021/10/21 23:43:33 - STG5_Hechos.0 - Finished processing (I=0, O=251, R=251, W=251, U=0, E=0)
+2021/10/21 23:43:33 - TFM_DWH - Starting entry [STG6_HECHOS]
+2021/10/21 23:43:33 - STG6_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:43:33 - STG6_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:43:33 - STG6_Hechos - Dispatching started for transformation [STG6_Hechos]
+2021/10/21 23:43:33 - LOG_STG6_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:33 - STG6_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:33 - TBL_Estudio.0 - Finished reading query, closing connection.
+2021/10/21 23:43:33 - TBL_Estudio.0 - Finished processing (I=13, O=0, R=0, W=13, U=0, E=0)
+2021/10/21 23:43:33 - STG5_Hechos.0 - Finished reading query, closing connection.
+2021/10/21 23:43:33 - STG5_Hechos.0 - Finished processing (I=251, O=0, R=0, W=251, U=0, E=0)
+2021/10/21 23:43:33 - OrdenFila.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:43:33 - dimensionEstudio.0 - Finished processing (I=0, O=0, R=251, W=251, U=0, E=0)
+2021/10/21 23:43:33 - ValidarEstudio.0 - Finished processing (I=0, O=0, R=251, W=251, U=0, E=0)
+2021/10/21 23:43:34 - CruceDimension.0 - Finished processing (I=0, O=0, R=264, W=251, U=0, E=0)
+2021/10/21 23:43:34 - Validador.0 - Finished processing (I=0, O=0, R=251, W=248, U=0, E=3)
+2021/10/21 23:43:34 - Error.0 - Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2021/10/21 23:43:34 - STG6_HECHOS.0 - Finished processing (I=0, O=248, R=248, W=248, U=0, E=0)
+2021/10/21 23:43:34 - LOG_STG6_HECHOS.0 - Finished processing (I=0, O=3, R=3, W=3, U=0, E=0)
+2021/10/21 23:43:34 - TFM_DWH - Starting entry [STG7_HECHOS]
+2021/10/21 23:43:34 - STG7_HECHOS - Using run configuration [Pentaho local]
+2021/10/21 23:43:34 - STG7_HECHOS - Running transformation using the Kettle execution engine
+2021/10/21 23:43:34 - STG7_Hechos - Dispatching started for transformation [STG7_Hechos]
+2021/10/21 23:43:34 - LOG_STG7_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:34 - STG7_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:34 - TBL_Estudio.0 - Finished reading query, closing connection.
+2021/10/21 23:43:34 - TBL_Estudio.0 - Finished processing (I=13, O=0, R=0, W=13, U=0, E=0)
+2021/10/21 23:43:34 - STG6_HECHOS.0 - Finished reading query, closing connection.
+2021/10/21 23:43:34 - STG6_HECHOS.0 - Finished processing (I=248, O=0, R=0, W=248, U=0, E=0)
+2021/10/21 23:43:34 - Order.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/21 23:43:34 - dimensionEstudio.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/10/21 23:43:34 - Validacion.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/10/21 23:43:34 - CruceDimension.0 - Finished processing (I=0, O=0, R=261, W=248, U=0, E=0)
+2021/10/21 23:43:34 - Validador.0 - Finished processing (I=0, O=0, R=248, W=246, U=0, E=2)
+2021/10/21 23:43:34 - Error.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:34 - LOG_STG7_HECHOS.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/21 23:43:34 - STG7_HECHOS.0 - Finished processing (I=0, O=246, R=246, W=246, U=0, E=0)
+2021/10/21 23:43:34 - TFM_DWH - Starting entry [FACT_CORP]
+2021/10/21 23:43:35 - FACT_CORP - Using run configuration [Pentaho local]
+2021/10/21 23:43:35 - FACT_CORP - Running transformation using the Kettle execution engine
+2021/10/21 23:43:35 - FACT_CORP - Dispatching started for transformation [FACT_CORP]
+2021/10/21 23:43:35 - FACT_CORP.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/21 23:43:35 - STG7_HECHOS.0 - Finished reading query, closing connection.
+2021/10/21 23:43:35 - FACT_NUEVOS.0 - Finished reading query, closing connection.
+2021/10/21 23:43:35 - STG7_HECHOS.0 - Finished processing (I=246, O=0, R=0, W=246, U=0, E=0)
+2021/10/21 23:43:35 - FACT_NUEVOS.0 - Finished processing (I=246, O=0, R=0, W=246, U=0, E=0)
+2021/10/21 23:43:35 - Delete.0 - Finished processing (I=0, O=0, R=246, W=246, U=246, E=0)
+2021/10/21 23:43:35 - InnerJoin_DatosUnicos.0 - Finished processing (I=0, O=0, R=492, W=246, U=0, E=0)
+2021/10/21 23:43:35 - AdicionarSecuencia.0 - Finished processing (I=0, O=0, R=246, W=246, U=0, E=0)
+2021/10/21 23:43:35 - FACT_CORP.0 - Finished processing (I=0, O=246, R=246, W=246, U=0, E=0)
+2021/10/21 23:43:35 - TFM_DWH - Starting entry [MoverArchivo.bat]
+2021/10/21 23:43:35 - MoverArchivo.bat - Running on platform : Windows 10
+2021/10/21 23:43:35 - MoverArchivo.bat - Executing command : cmd.exe /C "D:\Maestria\TFM\BAT\MoverArchivo.bat"
+2021/10/21 23:43:35 - MoverArchivo.bat - (stdout) 
+2021/10/21 23:43:35 - MoverArchivo.bat - (stdout) C:\Pentaho\data-integration>D:
+2021/10/21 23:43:35 - MoverArchivo.bat - (stdout) 
+2021/10/21 23:43:35 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\BAT>cd D:\Maestria\TFM\Datos\INPUT\CargaDatos 
+2021/10/21 23:43:35 - MoverArchivo.bat - (stdout) 
+2021/10/21 23:43:35 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>MOVE BASE_*.xlsx Archivos_Procesados 
+2021/10/21 23:43:35 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos\BASE_20211012.xlsx
+2021/10/21 23:43:35 - MoverArchivo.bat - (stdout) Se han movido         1 archivos.
+2021/10/21 23:43:35 - TFM_DWH - Starting entry [Success]
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [Success] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [MoverArchivo.bat] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [FACT_CORP] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [STG7_HECHOS] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [STG6_HECHOS] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [STG5_HECHOS] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [STG4_HECHOS] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [STG3_HECHOS] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [STG2_HECHOS] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [STG1_HECHOS] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [load_Dimensiones] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [Cargar Informacion] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [RenombrarArchivo.bat] (result=[true])
+2021/10/21 23:43:35 - TFM_DWH - Finished job entry [ValidarRegistros] (result=[true])
+2021/10/21 23:43:35 - INICIO_MALLA - Starting entry [GENERAVISUALIZACION]
+2021/10/21 23:43:35 - GENERAVISUALIZACION - Using run configuration [Pentaho local]
+2021/10/21 23:43:35 - GENERAKPI - Starting entry [Visualizacion1.py]
+2021/10/21 23:43:35 - Visualizacion1.py - Running on platform : Windows 10
+2021/10/21 23:43:35 - Visualizacion1.py - Executing command : cmd.exe /C "D:\Maestria\TFM\PY\Visualizaciones\Visualizacion1.py"
+2021/10/21 23:43:46 - Visualizacion1.py - (stdout) PostgreSQL conexion cerrada
+2021/10/21 23:43:46 - Visualizacion1.py - (stdout) Archivo Generado
+2021/10/21 23:43:46 - GENERAKPI - Finished job entry [Visualizacion1.py] (result=[true])
+2021/10/21 23:43:46 - INICIO_MALLA - Finished job entry [GENERAVISUALIZACION] (result=[true])
+2021/10/21 23:43:46 - INICIO_MALLA - Finished job entry [DWH] (result=[true])
+2021/10/21 23:43:46 - INICIO_MALLA - Job execution finished
+2021/10/21 23:43:46 - Kitchen - Finished!
+2021/10/21 23:43:46 - Kitchen - Start=2021/10/21 23:43:24.308, Stop=2021/10/21 23:43:46.513
+2021/10/21 23:43:46 - Kitchen - Processing ended after 22 seconds.
+2021/10/22 09:07:03 - Kitchen - Start of run.
+2021/10/22 09:07:48 - INICIO_MALLA - Start of job execution
+2021/10/22 09:07:48 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/10/22 09:07:48 - INICIO_MALLA - Starting entry [DWH]
+2021/10/22 09:07:49 - DWH - Using run configuration [Pentaho local]
+2021/10/22 09:07:49 - TFM_DWH - Starting entry [ValidarRegistros]
+2021/10/22 09:07:49 - TFM_DWH - Starting entry [RenombrarArchivo.bat]
+2021/10/22 09:07:49 - RenombrarArchivo.bat - Running on platform : Windows 10
+2021/10/22 09:07:49 - RenombrarArchivo.bat - Executing command : cmd.exe /C "D:\Maestria\TFM\BAT\RenombrarArchivo.bat"
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) C:\Pentaho\data-integration>D:
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\BAT>cd D:\Maestria\TFM\Datos\INPUT\CargaDatos 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>echo on 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>for /F "skip=1" %x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%x 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>if not defined MyDate set MyDate=20211022090749.873000-300 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>if not defined MyDate set MyDate=
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout)  
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set today=2021-10-22 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_year=2021" 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_month=10" 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_day=22" 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set cnt=0 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:49 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>dir /b BASE_*.xlsx /s   2>nul  | find "" /v /c   1>tmp  && set /p count=  0<tmp  && del tmp   && echo  
+2021/10/22 09:07:50 - RenombrarArchivo.bat - (stdout) ECHO est  activado.
+2021/10/22 09:07:50 - RenombrarArchivo.bat - (stdout) 
+2021/10/22 09:07:50 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>REN  BASE_*.xlsx  BASE_20211012.xlsx 
+2021/10/22 09:07:50 - TFM_DWH - Starting entry [Cargar Informacion]
+2021/10/22 09:07:51 - Cargar Informacion - Using run configuration [Pentaho local]
+2021/10/22 09:07:51 - Cargar Informacion - Running transformation using the Kettle execution engine
+2021/10/22 09:07:51 - CargaInformacion - Dispatching started for transformation [CargaInformacion]
+2021/10/22 09:07:53 - InsertLogTiempo.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - Carga_IN.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - Insert_log.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - TFM_DWH - Starting entry [load_Dimensiones]
+2021/10/22 09:07:53 - load_Dimensiones - Using run configuration [Pentaho local]
+2021/10/22 09:07:53 - load_Dimensiones - Running transformation using the Kettle execution engine
+2021/10/22 09:07:53 - Dimensiones - Dispatching started for transformation [Dimensiones]
+2021/10/22 09:07:53 - LOG_DIM_TIPOfAMILIAR.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - LOG_NivelConsumo.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - DIM_NIVEL_CONSUMO.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - log_SitContable.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - DIM_OCUPACION.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - DIM_ESCOLARIDAD.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - DIM_DIMENSIONES.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - log_Dim_Genero 2.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - LOG_DIM_DELITOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - DIM_TIP_FAMILIAR.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - DIM_SIT_JOVEN.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - log_dim_escolApr.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - DIM_GENERO.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - log_Dim_Genero.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:53 - TBL_Escolaridad.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_escolaridad.csv'
+2021/10/22 09:07:53 - TBL_tipFamiliar.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_tip_familiar.csv'
+2021/10/22 09:07:53 - TBL_Delito.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_delito.csv'
+2021/10/22 09:07:53 - TBL_NivConsumo.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_niv_consumo.csv'
+2021/10/22 09:07:53 - TBL_sit_joven.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_sit_joven.csv'
+2021/10/22 09:07:53 - TBL_Genero.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_genero.csv'
+2021/10/22 09:07:53 - TBL_tipFamiliar.0 - Finished processing (I=8, O=0, R=0, W=7, U=0, E=0)
+2021/10/22 09:07:53 - TBL_Ocupacion.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_ocupacion.csv'
+2021/10/22 09:07:53 - TBL_NivConsumo.0 - Finished processing (I=6, O=0, R=0, W=5, U=0, E=0)
+2021/10/22 09:07:53 - TBL_Escolaridad.0 - Finished processing (I=14, O=0, R=0, W=13, U=0, E=0)
+2021/10/22 09:07:53 - TBL_Genero.0 - Finished processing (I=3, O=0, R=0, W=2, U=0, E=0)
+2021/10/22 09:07:53 - NombreEstudiar.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/22 09:07:53 - TBL_sit_joven.0 - Finished processing (I=9, O=0, R=0, W=8, U=0, E=0)
+2021/10/22 09:07:53 - TBL_Delito.0 - Finished processing (I=24, O=0, R=0, W=23, U=0, E=0)
+2021/10/22 09:07:53 - NombreDimension.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/22 09:07:53 - TBL_Ocupacion.0 - Finished processing (I=5, O=0, R=0, W=4, U=0, E=0)
+2021/10/22 09:07:53 - NombreSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/22 09:07:53 - NombrDim_TipFamiliar.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/22 09:07:53 - NombreGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:53 - NombreOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/22 09:07:53 - NombrDimension.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/22 09:07:54 - ValidacionooOCUPACION.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/22 09:07:54 - ValidacionGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:54 - Validacion.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:54 - Validacion 2.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/22 09:07:54 - OrdenarFila3.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:54 - RegistroValidacionGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:54 - OrdenarFila3 2.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/22 09:07:54 - Numero_IDentificacion.0 - Finished processing (I=0, O=0, R=21, W=21, U=0, E=0)
+2021/10/22 09:07:54 - RegistroUnico.0 - Finished processing (I=0, O=0, R=23, W=21, U=0, E=0)
+2021/10/22 09:07:54 - NumeroIdentidacion_Escola.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/22 09:07:54 - NumeroIDDimension.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/22 09:07:54 - NumeroIdSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/22 09:07:54 - Ordenar_Fila.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/22 09:07:54 - RegistroUnicoEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/22 09:07:54 - RegistroUnicoSitConta.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/22 09:07:54 - RegistroUnicoTFami.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/22 09:07:54 - Validador.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/22 09:07:54 - NumeroIdSecuencia.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/22 09:07:54 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/22 09:07:54 - RegistroUnico_Consulta.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)2021/10/22 09:07:54 - OrdenarFilas 2.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/22 09:07:54 - Ordenar Fila.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/22 09:07:54 - ValidarFunction.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/22 09:07:54 - ValidadorEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/22 09:07:54 - ValidacionSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/22 09:07:54 - OrdenarFila.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/22 09:07:54 - ValidarFuncion.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/22 09:07:54 - ValidacionSit.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/22 09:07:54 - ValidacionFuncion.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)2021/10/22 09:07:54 - ValidarEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/22 09:07:54 - ValidarFuncionTip.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/22 09:07:54 - ValidarNivConsumo.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)2021/10/22 09:07:54 - Add sequenceOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/22 09:07:54 - RegistroValidacionOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)2021/10/22 09:07:54 - Add sequence.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+
+
+
+
+2021/10/22 09:07:55 - DIM_DIMENSIONES.0 - Finished processing (I=0, O=21, R=21, W=21, U=0, E=0)
+2021/10/22 09:07:55 - DIM_NIVEL_CONSUMO.0 - Finished processing (I=0, O=5, R=5, W=5, U=0, E=0)
+2021/10/22 09:07:55 - DIM_OCUPACION.0 - Finished processing (I=0, O=4, R=4, W=4, U=0, E=0)
+2021/10/22 09:07:55 - DIM_SIT_JOVEN.0 - Finished processing (I=0, O=8, R=8, W=8, U=0, E=0)
+2021/10/22 09:07:55 - DIM_GENERO.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:55 - DIM_ESCOLARIDAD.0 - Finished processing (I=0, O=13, R=13, W=13, U=0, E=0)
+2021/10/22 09:07:55 - DIM_TIP_FAMILIAR.0 - Finished processing (I=0, O=7, R=7, W=7, U=0, E=0)
+2021/10/22 09:07:55 - TFM_DWH - Starting entry [STG1_HECHOS]
+2021/10/22 09:07:55 - STG1_HECHOS - Using run configuration [Pentaho local]
+2021/10/22 09:07:55 - STG1_HECHOS - Running transformation using the Kettle execution engine
+2021/10/22 09:07:55 - STG1_Hechos - Dispatching started for transformation [STG1_Hechos]
+2021/10/22 09:07:55 - STG1_Hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:55 - log_stg1_hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:55 - TBL_DIMENSIONES.0 - Finished reading query, closing connection.
+2021/10/22 09:07:55 - TBL_DIMENSIONES.0 - Finished processing (I=21, O=0, R=0, W=21, U=0, E=0)
+2021/10/22 09:07:55 - OrdenarDelitos.0 - Finished processing (I=0, O=0, R=21, W=21, U=0, E=0)
+2021/10/22 09:07:55 - cor_in_base.0 - Finished reading query, closing connection.
+2021/10/22 09:07:55 - cor_in_base.0 - Finished processing (I=486, O=0, R=0, W=486, U=0, E=0)
+2021/10/22 09:07:55 - NombreDelito.0 - Finished processing (I=0, O=0, R=486, W=486, U=0, E=0)
+2021/10/22 09:07:55 - ValidacionPalabra.0 - Finished processing (I=0, O=0, R=486, W=486, U=0, E=0)
+2021/10/22 09:07:55 - JoinDelitos_Hechos.0 - Finished processing (I=0, O=0, R=507, W=486, U=0, E=0)
+2021/10/22 09:07:56 - Validador.0 - Finished processing (I=0, O=0, R=486, W=484, U=0, E=2)
+2021/10/22 09:07:56 - Error.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:56 - log_stg1_hechos.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:56 - STG1_Hechos.0 - Finished processing (I=0, O=484, R=484, W=484, U=0, E=0)
+2021/10/22 09:07:56 - TFM_DWH - Starting entry [STG2_HECHOS]
+2021/10/22 09:07:56 - STG2_HECHOS - Using run configuration [Pentaho local]
+2021/10/22 09:07:56 - STG2_HECHOS - Running transformation using the Kettle execution engine
+2021/10/22 09:07:56 - STG2_Hechos - Dispatching started for transformation [STG2_Hechos]
+2021/10/22 09:07:56 - STG2_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:56 - log_stg2_hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:56 - TBL_TipFamiliar.0 - Finished reading query, closing connection.
+2021/10/22 09:07:56 - TBL_TipFamiliar.0 - Finished processing (I=7, O=0, R=0, W=7, U=0, E=0)
+2021/10/22 09:07:56 - STG1_Hechos.0 - Finished reading query, closing connection.
+2021/10/22 09:07:56 - STG1_Hechos.0 - Finished processing (I=484, O=0, R=0, W=484, U=0, E=0)
+2021/10/22 09:07:56 - OrdenarTipFamiliar.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/22 09:07:56 - NombreTipoFamilia.0 - Finished processing (I=0, O=0, R=484, W=484, U=0, E=0)
+2021/10/22 09:07:56 - ValidacionTipFamiliar.0 - Finished processing (I=0, O=0, R=484, W=484, U=0, E=0)
+2021/10/22 09:07:56 - JoinTipoFamiliar.0 - Finished processing (I=0, O=0, R=491, W=484, U=0, E=0)
+2021/10/22 09:07:56 - Validador.0 - Finished processing (I=0, O=0, R=484, W=466, U=0, E=18)
+2021/10/22 09:07:56 - Error.0 - Finished processing (I=0, O=0, R=18, W=18, U=0, E=0)
+2021/10/22 09:07:56 - log_stg2_hechos.0 - Finished processing (I=0, O=18, R=18, W=18, U=0, E=0)
+2021/10/22 09:07:56 - STG2_HECHOS.0 - Finished processing (I=0, O=466, R=466, W=466, U=0, E=0)
+2021/10/22 09:07:56 - TFM_DWH - Starting entry [STG3_HECHOS]
+2021/10/22 09:07:56 - STG3_HECHOS - Using run configuration [Pentaho local]
+2021/10/22 09:07:56 - STG3_HECHOS - Running transformation using the Kettle execution engine
+2021/10/22 09:07:56 - STG3_Hechos - Dispatching started for transformation [STG3_Hechos]
+2021/10/22 09:07:56 - LOG_STG3_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:56 - STG3_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:56 - TBL_NivelConsumo.0 - Finished reading query, closing connection.
+2021/10/22 09:07:56 - TBL_NivelConsumo.0 - Finished processing (I=5, O=0, R=0, W=5, U=0, E=0)
+2021/10/22 09:07:56 - STG2_HECHOS.0 - Finished reading query, closing connection.
+2021/10/22 09:07:56 - STG2_HECHOS.0 - Finished processing (I=466, O=0, R=0, W=466, U=0, E=0)
+2021/10/22 09:07:56 - dimension.0 - Finished processing (I=0, O=0, R=466, W=466, U=0, E=0)
+2021/10/22 09:07:56 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/22 09:07:56 - ValidacionNivelConsumo.0 - Finished processing (I=0, O=0, R=466, W=466, U=0, E=0)
+2021/10/22 09:07:57 - JoinValidacion.0 - Finished processing (I=0, O=0, R=471, W=466, U=0, E=0)
+2021/10/22 09:07:57 - valiidador.0 - Finished processing (I=0, O=0, R=466, W=305, U=0, E=161)
+2021/10/22 09:07:57 - Error.0 - Finished processing (I=0, O=0, R=161, W=161, U=0, E=0)
+2021/10/22 09:07:57 - STG3_HECHOS.0 - Finished processing (I=0, O=305, R=305, W=305, U=0, E=0)
+2021/10/22 09:07:57 - LOG_STG3_HECHOS.0 - Finished processing (I=0, O=161, R=161, W=161, U=0, E=0)
+2021/10/22 09:07:57 - TFM_DWH - Starting entry [STG4_HECHOS]
+2021/10/22 09:07:57 - STG4_HECHOS - Using run configuration [Pentaho local]
+2021/10/22 09:07:57 - STG4_HECHOS - Running transformation using the Kettle execution engine
+2021/10/22 09:07:57 - STG4_Hechos - Dispatching started for transformation [STG4_Hechos]
+2021/10/22 09:07:57 - STG4_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:57 - LOG_STG4_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:57 - TBL_sit_joven.0 - Finished reading query, closing connection.
+2021/10/22 09:07:57 - TBL_sit_joven.0 - Finished processing (I=8, O=0, R=0, W=8, U=0, E=0)
+2021/10/22 09:07:57 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/22 09:07:57 - STG3_HECHOS.0 - Finished reading query, closing connection.
+2021/10/22 09:07:57 - STG3_HECHOS.0 - Finished processing (I=305, O=0, R=0, W=305, U=0, E=0)
+2021/10/22 09:07:57 - dimension.0 - Finished processing (I=0, O=0, R=305, W=305, U=0, E=0)
+2021/10/22 09:07:57 - ValidacionSit.0 - Finished processing (I=0, O=0, R=305, W=305, U=0, E=0)
+2021/10/22 09:07:57 - ValidacionSitJoven.0 - Finished processing (I=0, O=0, R=313, W=305, U=0, E=0)
+2021/10/22 09:07:57 - valiidador.0 - Finished processing (I=0, O=0, R=305, W=252, U=0, E=53)
+2021/10/22 09:07:57 - Error.0 - Finished processing (I=0, O=0, R=53, W=53, U=0, E=0)
+2021/10/22 09:07:57 - LOG_STG4_HECHOS.0 - Finished processing (I=0, O=53, R=53, W=53, U=0, E=0)
+2021/10/22 09:07:57 - STG4_HECHOS.0 - Finished processing (I=0, O=252, R=252, W=252, U=0, E=0)
+2021/10/22 09:07:57 - TFM_DWH - Starting entry [STG5_HECHOS]
+2021/10/22 09:07:57 - STG5_HECHOS - Using run configuration [Pentaho local]
+2021/10/22 09:07:57 - STG5_HECHOS - Running transformation using the Kettle execution engine
+2021/10/22 09:07:57 - STG5_Hechos - Dispatching started for transformation [STG5_Hechos]
+2021/10/22 09:07:57 - STG5_Hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:57 - LOG_STG5_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:57 - TBL_genero.0 - Finished reading query, closing connection.
+2021/10/22 09:07:57 - TBL_genero.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2021/10/22 09:07:57 - STG4_HECHOS.0 - Finished reading query, closing connection.
+2021/10/22 09:07:57 - STG4_HECHOS.0 - Finished processing (I=252, O=0, R=0, W=252, U=0, E=0)
+2021/10/22 09:07:57 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:57 - dimensionGenero.0 - Finished processing (I=0, O=0, R=252, W=252, U=0, E=0)
+2021/10/22 09:07:57 - ValidacionPalabra.0 - Finished processing (I=0, O=0, R=252, W=252, U=0, E=0)
+2021/10/22 09:07:58 - ValidacionGeneracion.0 - Finished processing (I=0, O=0, R=254, W=252, U=0, E=0)
+2021/10/22 09:07:58 - Validador.0 - Finished processing (I=0, O=0, R=252, W=251, U=0, E=1)
+2021/10/22 09:07:58 - Error.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2021/10/22 09:07:58 - LOG_STG5_HECHOS.0 - Finished processing (I=0, O=1, R=1, W=1, U=0, E=0)
+2021/10/22 09:07:58 - STG5_Hechos.0 - Finished processing (I=0, O=251, R=251, W=251, U=0, E=0)
+2021/10/22 09:07:58 - TFM_DWH - Starting entry [STG6_HECHOS]
+2021/10/22 09:07:58 - STG6_HECHOS - Using run configuration [Pentaho local]
+2021/10/22 09:07:58 - STG6_HECHOS - Running transformation using the Kettle execution engine
+2021/10/22 09:07:58 - STG6_Hechos - Dispatching started for transformation [STG6_Hechos]
+2021/10/22 09:07:58 - LOG_STG6_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:58 - STG6_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:58 - TBL_Estudio.0 - Finished reading query, closing connection.
+2021/10/22 09:07:58 - TBL_Estudio.0 - Finished processing (I=13, O=0, R=0, W=13, U=0, E=0)
+2021/10/22 09:07:58 - STG5_Hechos.0 - Finished reading query, closing connection.
+2021/10/22 09:07:58 - STG5_Hechos.0 - Finished processing (I=251, O=0, R=0, W=251, U=0, E=0)
+2021/10/22 09:07:58 - OrdenFila.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/22 09:07:58 - dimensionEstudio.0 - Finished processing (I=0, O=0, R=251, W=251, U=0, E=0)
+2021/10/22 09:07:58 - ValidarEstudio.0 - Finished processing (I=0, O=0, R=251, W=251, U=0, E=0)
+2021/10/22 09:07:58 - CruceDimension.0 - Finished processing (I=0, O=0, R=264, W=251, U=0, E=0)
+2021/10/22 09:07:58 - Validador.0 - Finished processing (I=0, O=0, R=251, W=248, U=0, E=3)
+2021/10/22 09:07:58 - Error.0 - Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2021/10/22 09:07:58 - LOG_STG6_HECHOS.0 - Finished processing (I=0, O=3, R=3, W=3, U=0, E=0)
+2021/10/22 09:07:58 - STG6_HECHOS.0 - Finished processing (I=0, O=248, R=248, W=248, U=0, E=0)
+2021/10/22 09:07:58 - TFM_DWH - Starting entry [STG7_HECHOS]
+2021/10/22 09:07:58 - STG7_HECHOS - Using run configuration [Pentaho local]
+2021/10/22 09:07:58 - STG7_HECHOS - Running transformation using the Kettle execution engine
+2021/10/22 09:07:58 - STG7_Hechos - Dispatching started for transformation [STG7_Hechos]
+2021/10/22 09:07:58 - LOG_STG7_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:58 - STG7_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:58 - TBL_Estudio.0 - Finished reading query, closing connection.
+2021/10/22 09:07:58 - TBL_Estudio.0 - Finished processing (I=13, O=0, R=0, W=13, U=0, E=0)
+2021/10/22 09:07:58 - STG6_HECHOS.0 - Finished reading query, closing connection.
+2021/10/22 09:07:58 - STG6_HECHOS.0 - Finished processing (I=248, O=0, R=0, W=248, U=0, E=0)
+2021/10/22 09:07:58 - Order.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/22 09:07:58 - dimensionEstudio.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/10/22 09:07:58 - Validacion.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/10/22 09:07:59 - CruceDimension.0 - Finished processing (I=0, O=0, R=261, W=248, U=0, E=0)
+2021/10/22 09:07:59 - Validador.0 - Finished processing (I=0, O=0, R=248, W=246, U=0, E=2)
+2021/10/22 09:07:59 - Error.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:59 - LOG_STG7_HECHOS.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/22 09:07:59 - STG7_HECHOS.0 - Finished processing (I=0, O=246, R=246, W=246, U=0, E=0)
+2021/10/22 09:07:59 - TFM_DWH - Starting entry [FACT_CORP]
+2021/10/22 09:07:59 - FACT_CORP - Using run configuration [Pentaho local]
+2021/10/22 09:07:59 - FACT_CORP - Running transformation using the Kettle execution engine
+2021/10/22 09:07:59 - FACT_CORP - Dispatching started for transformation [FACT_CORP]
+2021/10/22 09:07:59 - FACT_CORP.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/22 09:07:59 - FACT_NUEVOS.0 - Finished reading query, closing connection.
+2021/10/22 09:07:59 - FACT_NUEVOS.0 - Finished processing (I=246, O=0, R=0, W=246, U=0, E=0)
+2021/10/22 09:07:59 - STG7_HECHOS.0 - Finished reading query, closing connection.
+2021/10/22 09:07:59 - STG7_HECHOS.0 - Finished processing (I=246, O=0, R=0, W=246, U=0, E=0)
+2021/10/22 09:07:59 - Delete.0 - Finished processing (I=0, O=0, R=246, W=246, U=246, E=0)
+2021/10/22 09:07:59 - InnerJoin_DatosUnicos.0 - Finished processing (I=0, O=0, R=492, W=246, U=0, E=0)
+2021/10/22 09:07:59 - AdicionarSecuencia.0 - Finished processing (I=0, O=0, R=246, W=246, U=0, E=0)
+2021/10/22 09:07:59 - FACT_CORP.0 - Finished processing (I=0, O=246, R=246, W=246, U=0, E=0)
+2021/10/22 09:07:59 - TFM_DWH - Starting entry [MoverArchivo.bat]
+2021/10/22 09:07:59 - MoverArchivo.bat - Running on platform : Windows 10
+2021/10/22 09:07:59 - MoverArchivo.bat - Executing command : cmd.exe /C "D:\Maestria\TFM\BAT\MoverArchivo.bat"
+2021/10/22 09:07:59 - MoverArchivo.bat - (stdout) 
+2021/10/22 09:07:59 - MoverArchivo.bat - (stdout) C:\Pentaho\data-integration>D:
+2021/10/22 09:07:59 - MoverArchivo.bat - (stdout) 
+2021/10/22 09:07:59 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\BAT>cd D:\Maestria\TFM\Datos\INPUT\CargaDatos 
+2021/10/22 09:07:59 - MoverArchivo.bat - (stdout) 
+2021/10/22 09:07:59 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>MOVE BASE_*.xlsx Archivos_Procesados 
+2021/10/22 09:07:59 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos\BASE_20211012.xlsx
+2021/10/22 09:07:59 - MoverArchivo.bat - (stdout) Se han movido         1 archivos.
+2021/10/22 09:07:59 - TFM_DWH - Starting entry [Success]
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [Success] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [MoverArchivo.bat] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [FACT_CORP] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [STG7_HECHOS] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [STG6_HECHOS] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [STG5_HECHOS] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [STG4_HECHOS] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [STG3_HECHOS] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [STG2_HECHOS] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [STG1_HECHOS] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [load_Dimensiones] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [Cargar Informacion] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [RenombrarArchivo.bat] (result=[true])
+2021/10/22 09:07:59 - TFM_DWH - Finished job entry [ValidarRegistros] (result=[true])
+2021/10/22 09:07:59 - INICIO_MALLA - Starting entry [GENERAVISUALIZACION]
+2021/10/22 09:07:59 - GENERAVISUALIZACION - Using run configuration [Pentaho local]
+2021/10/22 09:07:59 - GENERAKPI - Starting entry [Visualizacion1.py]
+2021/10/22 09:07:59 - Visualizacion1.py - Running on platform : Windows 10
+2021/10/22 09:07:59 - Visualizacion1.py - Executing command : cmd.exe /C "D:\Maestria\TFM\PY\Visualizaciones\Visualizacion1.py"
+2021/10/22 09:08:53 - Visualizacion1.py - (stdout) PostgreSQL conexion cerrada
+2021/10/22 09:08:53 - Visualizacion1.py - (stdout) Archivo Generado
+2021/10/22 09:08:54 - GENERAKPI - Finished job entry [Visualizacion1.py] (result=[true])
+2021/10/22 09:08:54 - INICIO_MALLA - Finished job entry [GENERAVISUALIZACION] (result=[true])
+2021/10/22 09:08:54 - INICIO_MALLA - Finished job entry [DWH] (result=[true])
+2021/10/22 09:08:54 - INICIO_MALLA - Job execution finished
+2021/10/22 09:08:54 - Kitchen - Finished!
+2021/10/22 09:08:54 - Kitchen - Start=2021/10/22 09:07:03.527, Stop=2021/10/22 09:08:54.386
+2021/10/22 09:08:54 - Kitchen - Processing ended after 1 minutes and 50 seconds (110 seconds total).
+2021/10/28 20:26:51 - Kitchen - Start of run.
+2021/10/28 20:27:02 - INICIO_MALLA - Start of job execution
+2021/10/28 20:27:02 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/10/28 20:27:02 - INICIO_MALLA - Starting entry [CARGAINFO]
+2021/10/28 20:27:02 - CARGAINFO - Using run configuration [Pentaho local]
+2021/10/28 20:27:02 - GENERAARCHIVOS - Starting entry [ArmaInformacion]
+2021/10/28 20:27:03 - ArmaInformacion - Using run configuration [Pentaho local]
+2021/10/28 20:27:03 - ArmaInformacion - Running transformation using the Kettle execution engine
+2021/10/28 20:27:03 - ClasificaInformacion - Dispatching started for transformation [ClasificaInformacion]
+2021/10/28 20:27:03 - CargaArchivoInicial.0 - Finished processing (I=39, O=0, R=0, W=39, U=0, E=0)
+2021/10/28 20:27:04 - GeneraArchivoProceso.0 - Finished processing (I=0, O=39, R=39, W=39, U=0, E=0)
+2021/10/28 20:27:04 - GENERAARCHIVOS - Starting entry [Success]
+2021/10/28 20:27:04 - GENERAARCHIVOS - Finished job entry [Success] (result=[true])
+2021/10/28 20:27:04 - GENERAARCHIVOS - Finished job entry [ArmaInformacion] (result=[true])
+2021/10/28 20:27:04 - INICIO_MALLA - Starting entry [DWH]
+2021/10/28 20:27:04 - DWH - Using run configuration [Pentaho local]
+2021/10/28 20:27:04 - TFM_DWH - Starting entry [ValidarRegistros]
+2021/10/28 20:27:04 - TFM_DWH - Starting entry [RenombrarArchivo.bat]
+2021/10/28 20:27:04 - RenombrarArchivo.bat - Running on platform : Windows 10
+2021/10/28 20:27:04 - RenombrarArchivo.bat - Executing command : cmd.exe /C "D:\Maestria\TFM\BAT\RenombrarArchivo.bat"
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) C:\Pentaho\data-integration>D:
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\BAT>cd D:\Maestria\TFM\Datos\INPUT\CargaDatos 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>echo on 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>for /F "skip=1" %x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%x 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>if not defined MyDate set MyDate=20211028202704.416000-300 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>if not defined MyDate set MyDate=
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout)  
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set today=2021-10-28 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_year=2021" 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_month=10" 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_day=28" 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set cnt=0 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>dir /b BASE_*.xlsx /s   2>nul  | find "" /v /c   1>tmp  && set /p count=  0<tmp  && del tmp   && echo  
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) ECHO est  activado.
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) 
+2021/10/28 20:27:04 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>REN  BASE_*.xlsx  BASE_2021103.xlsx 
+2021/10/28 20:27:04 - TFM_DWH - Starting entry [Cargar Informacion]
+2021/10/28 20:27:04 - Cargar Informacion - Using run configuration [Pentaho local]
+2021/10/28 20:27:04 - Cargar Informacion - Running transformation using the Kettle execution engine
+2021/10/28 20:27:04 - CargaInformacion - Dispatching started for transformation [CargaInformacion]
+2021/10/28 20:27:04 - Insert_log.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:04 - InsertLogTiempo.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:04 - Carga_IN.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:04 - TFM_DWH - Starting entry [load_Dimensiones]
+2021/10/28 20:27:04 - load_Dimensiones - Using run configuration [Pentaho local]
+2021/10/28 20:27:04 - load_Dimensiones - Running transformation using the Kettle execution engine
+2021/10/28 20:27:04 - Dimensiones - Dispatching started for transformation [Dimensiones]
+2021/10/28 20:27:05 - DIM_SIT_JOVEN.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - log_dim_escolApr.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - DIM_OCUPACION.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - log_SitContable.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - LOG_DIM_DELITOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - log_Dim_Genero 2.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - DIM_TIP_FAMILIAR.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - log_Dim_Genero.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - DIM_DIMENSIONES.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - DIM_NIVEL_CONSUMO.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - DIM_GENERO.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - DIM_ESCOLARIDAD.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - LOG_NivelConsumo.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - LOG_DIM_TIPOfAMILIAR.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - TBL_sit_joven.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_sit_joven.csv'
+2021/10/28 20:27:05 - TBL_Ocupacion.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_ocupacion.csv'
+2021/10/28 20:27:05 - TBL_Genero.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_genero.csv'
+2021/10/28 20:27:05 - TBL_Escolaridad.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_escolaridad.csv'
+2021/10/28 20:27:05 - TBL_tipFamiliar.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_tip_familiar.csv'
+2021/10/28 20:27:05 - TBL_NivConsumo.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_niv_consumo.csv'
+2021/10/28 20:27:05 - TBL_Delito.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_delito.csv'
+2021/10/28 20:27:05 - NombreOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/28 20:27:05 - NombreSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/28 20:27:05 - NombreGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:05 - TBL_NivConsumo.0 - Finished processing (I=6, O=0, R=0, W=5, U=0, E=0)
+2021/10/28 20:27:05 - TBL_tipFamiliar.0 - Finished processing (I=8, O=0, R=0, W=7, U=0, E=0)
+2021/10/28 20:27:05 - TBL_Escolaridad.0 - Finished processing (I=14, O=0, R=0, W=13, U=0, E=0)
+2021/10/28 20:27:05 - TBL_Genero.0 - Finished processing (I=3, O=0, R=0, W=2, U=0, E=0)
+2021/10/28 20:27:05 - TBL_sit_joven.0 - Finished processing (I=9, O=0, R=0, W=8, U=0, E=0)
+2021/10/28 20:27:05 - TBL_Ocupacion.0 - Finished processing (I=5, O=0, R=0, W=4, U=0, E=0)
+2021/10/28 20:27:05 - NombrDim_TipFamiliar.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/28 20:27:05 - NombreEstudiar.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/28 20:27:05 - NombrDimension.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/28 20:27:05 - TBL_Delito.0 - Finished processing (I=24, O=0, R=0, W=23, U=0, E=0)
+2021/10/28 20:27:05 - NombreDimension.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/28 20:27:05 - ValidacionGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:05 - ValidarNivConsumo.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/28 20:27:05 - ValidacionooOCUPACION.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/28 20:27:05 - ValidacionSit.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/28 20:27:05 - ValidarFuncionTip.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/28 20:27:05 - ValidarEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/28 20:27:05 - ValidacionFuncion.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/28 20:27:05 - Validacion.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:05 - ValidacionSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/28 20:27:05 - Validacion 2.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/28 20:27:05 - ValidarFuncion.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/28 20:27:05 - ValidadorEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/28 20:27:05 - OrdenarFila3.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:05 - OrdenarFila3 2.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/28 20:27:05 - OrdenarFila.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/28 20:27:05 - RegistroValidacionGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:05 - RegistroUnico_Consulta.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/28 20:27:05 - RegistroValidacionOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/28 20:27:05 - Ordenar Fila.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/28 20:27:05 - OrdenarFilas 2.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/28 20:27:05 - RegistroUnicoTFami.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/28 20:27:05 - ValidarFunction.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/28 20:27:05 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/28 20:27:05 - RegistroUnicoEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/28 20:27:05 - RegistroUnicoSitConta.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/28 20:27:05 - Add sequence.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:05 - Add sequenceOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/10/28 20:27:05 - NumeroIDDimension.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/28 20:27:05 - Validador.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/28 20:27:05 - NumeroIdSecuencia.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/28 20:27:05 - NumeroIdentidacion_Escola.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/28 20:27:05 - NumeroIdSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/28 20:27:05 - Ordenar_Fila.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/10/28 20:27:05 - RegistroUnico.0 - Finished processing (I=0, O=0, R=23, W=21, U=0, E=0)
+2021/10/28 20:27:05 - Numero_IDentificacion.0 - Finished processing (I=0, O=0, R=21, W=21, U=0, E=0)
+2021/10/28 20:27:05 - DIM_NIVEL_CONSUMO.0 - Finished processing (I=0, O=5, R=5, W=5, U=0, E=0)
+2021/10/28 20:27:05 - DIM_SIT_JOVEN.0 - Finished processing (I=0, O=8, R=8, W=8, U=0, E=0)
+2021/10/28 20:27:05 - DIM_TIP_FAMILIAR.0 - Finished processing (I=0, O=7, R=7, W=7, U=0, E=0)
+2021/10/28 20:27:05 - DIM_DIMENSIONES.0 - Finished processing (I=0, O=21, R=21, W=21, U=0, E=0)
+2021/10/28 20:27:05 - DIM_GENERO.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:05 - DIM_ESCOLARIDAD.0 - Finished processing (I=0, O=13, R=13, W=13, U=0, E=0)
+2021/10/28 20:27:05 - DIM_OCUPACION.0 - Finished processing (I=0, O=4, R=4, W=4, U=0, E=0)
+2021/10/28 20:27:05 - TFM_DWH - Starting entry [STG1_HECHOS]
+2021/10/28 20:27:05 - STG1_HECHOS - Using run configuration [Pentaho local]
+2021/10/28 20:27:05 - STG1_HECHOS - Running transformation using the Kettle execution engine
+2021/10/28 20:27:05 - STG1_Hechos - Dispatching started for transformation [STG1_Hechos]
+2021/10/28 20:27:05 - STG1_Hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:05 - log_stg1_hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:06 - TBL_DIMENSIONES.0 - Finished reading query, closing connection.
+2021/10/28 20:27:06 - TBL_DIMENSIONES.0 - Finished processing (I=21, O=0, R=0, W=21, U=0, E=0)
+2021/10/28 20:27:06 - OrdenarDelitos.0 - Finished processing (I=0, O=0, R=21, W=21, U=0, E=0)
+2021/10/28 20:27:06 - cor_in_base.0 - Finished reading query, closing connection.
+2021/10/28 20:27:06 - cor_in_base.0 - Finished processing (I=486, O=0, R=0, W=486, U=0, E=0)
+2021/10/28 20:27:06 - NombreDelito.0 - Finished processing (I=0, O=0, R=486, W=486, U=0, E=0)
+2021/10/28 20:27:06 - ValidacionPalabra.0 - Finished processing (I=0, O=0, R=486, W=486, U=0, E=0)
+2021/10/28 20:27:06 - JoinDelitos_Hechos.0 - Finished processing (I=0, O=0, R=507, W=486, U=0, E=0)
+2021/10/28 20:27:06 - Validador.0 - Finished processing (I=0, O=0, R=486, W=484, U=0, E=2)
+2021/10/28 20:27:06 - Error.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:06 - log_stg1_hechos.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:06 - STG1_Hechos.0 - Finished processing (I=0, O=484, R=484, W=484, U=0, E=0)
+2021/10/28 20:27:06 - TFM_DWH - Starting entry [STG2_HECHOS]
+2021/10/28 20:27:06 - STG2_HECHOS - Using run configuration [Pentaho local]
+2021/10/28 20:27:06 - STG2_HECHOS - Running transformation using the Kettle execution engine
+2021/10/28 20:27:06 - STG2_Hechos - Dispatching started for transformation [STG2_Hechos]
+2021/10/28 20:27:06 - STG2_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:06 - log_stg2_hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:06 - TBL_TipFamiliar.0 - Finished reading query, closing connection.
+2021/10/28 20:27:06 - TBL_TipFamiliar.0 - Finished processing (I=7, O=0, R=0, W=7, U=0, E=0)
+2021/10/28 20:27:06 - STG1_Hechos.0 - Finished reading query, closing connection.
+2021/10/28 20:27:06 - OrdenarTipFamiliar.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/10/28 20:27:06 - STG1_Hechos.0 - Finished processing (I=484, O=0, R=0, W=484, U=0, E=0)
+2021/10/28 20:27:06 - NombreTipoFamilia.0 - Finished processing (I=0, O=0, R=484, W=484, U=0, E=0)
+2021/10/28 20:27:06 - ValidacionTipFamiliar.0 - Finished processing (I=0, O=0, R=484, W=484, U=0, E=0)
+2021/10/28 20:27:06 - JoinTipoFamiliar.0 - Finished processing (I=0, O=0, R=491, W=484, U=0, E=0)
+2021/10/28 20:27:06 - Validador.0 - Finished processing (I=0, O=0, R=484, W=466, U=0, E=18)
+2021/10/28 20:27:06 - Error.0 - Finished processing (I=0, O=0, R=18, W=18, U=0, E=0)
+2021/10/28 20:27:06 - log_stg2_hechos.0 - Finished processing (I=0, O=18, R=18, W=18, U=0, E=0)
+2021/10/28 20:27:06 - STG2_HECHOS.0 - Finished processing (I=0, O=466, R=466, W=466, U=0, E=0)
+2021/10/28 20:27:06 - TFM_DWH - Starting entry [STG3_HECHOS]
+2021/10/28 20:27:06 - STG3_HECHOS - Using run configuration [Pentaho local]
+2021/10/28 20:27:06 - STG3_HECHOS - Running transformation using the Kettle execution engine
+2021/10/28 20:27:06 - STG3_Hechos - Dispatching started for transformation [STG3_Hechos]
+2021/10/28 20:27:06 - STG3_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:06 - LOG_STG3_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:06 - TBL_NivelConsumo.0 - Finished reading query, closing connection.
+2021/10/28 20:27:06 - TBL_NivelConsumo.0 - Finished processing (I=5, O=0, R=0, W=5, U=0, E=0)
+2021/10/28 20:27:06 - STG2_HECHOS.0 - Finished reading query, closing connection.
+2021/10/28 20:27:06 - STG2_HECHOS.0 - Finished processing (I=466, O=0, R=0, W=466, U=0, E=0)
+2021/10/28 20:27:06 - dimension.0 - Finished processing (I=0, O=0, R=466, W=466, U=0, E=0)
+2021/10/28 20:27:07 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/10/28 20:27:07 - ValidacionNivelConsumo.0 - Finished processing (I=0, O=0, R=466, W=466, U=0, E=0)
+2021/10/28 20:27:07 - JoinValidacion.0 - Finished processing (I=0, O=0, R=471, W=466, U=0, E=0)
+2021/10/28 20:27:07 - valiidador.0 - Finished processing (I=0, O=0, R=466, W=305, U=0, E=161)
+2021/10/28 20:27:07 - Error.0 - Finished processing (I=0, O=0, R=161, W=161, U=0, E=0)
+2021/10/28 20:27:07 - STG3_HECHOS.0 - Finished processing (I=0, O=305, R=305, W=305, U=0, E=0)
+2021/10/28 20:27:07 - LOG_STG3_HECHOS.0 - Finished processing (I=0, O=161, R=161, W=161, U=0, E=0)
+2021/10/28 20:27:07 - TFM_DWH - Starting entry [STG4_HECHOS]
+2021/10/28 20:27:07 - STG4_HECHOS - Using run configuration [Pentaho local]
+2021/10/28 20:27:07 - STG4_HECHOS - Running transformation using the Kettle execution engine
+2021/10/28 20:27:07 - STG4_Hechos - Dispatching started for transformation [STG4_Hechos]
+2021/10/28 20:27:07 - STG4_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:07 - LOG_STG4_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:07 - TBL_sit_joven.0 - Finished reading query, closing connection.
+2021/10/28 20:27:07 - TBL_sit_joven.0 - Finished processing (I=8, O=0, R=0, W=8, U=0, E=0)
+2021/10/28 20:27:07 - STG3_HECHOS.0 - Finished reading query, closing connection.
+2021/10/28 20:27:07 - STG3_HECHOS.0 - Finished processing (I=305, O=0, R=0, W=305, U=0, E=0)
+2021/10/28 20:27:07 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/10/28 20:27:07 - dimension.0 - Finished processing (I=0, O=0, R=305, W=305, U=0, E=0)
+2021/10/28 20:27:07 - ValidacionSit.0 - Finished processing (I=0, O=0, R=305, W=305, U=0, E=0)
+2021/10/28 20:27:07 - ValidacionSitJoven.0 - Finished processing (I=0, O=0, R=313, W=305, U=0, E=0)
+2021/10/28 20:27:07 - valiidador.0 - Finished processing (I=0, O=0, R=305, W=252, U=0, E=53)
+2021/10/28 20:27:07 - Error.0 - Finished processing (I=0, O=0, R=53, W=53, U=0, E=0)
+2021/10/28 20:27:07 - LOG_STG4_HECHOS.0 - Finished processing (I=0, O=53, R=53, W=53, U=0, E=0)
+2021/10/28 20:27:07 - STG4_HECHOS.0 - Finished processing (I=0, O=252, R=252, W=252, U=0, E=0)
+2021/10/28 20:27:07 - TFM_DWH - Starting entry [STG5_HECHOS]
+2021/10/28 20:27:07 - STG5_HECHOS - Using run configuration [Pentaho local]
+2021/10/28 20:27:07 - STG5_HECHOS - Running transformation using the Kettle execution engine
+2021/10/28 20:27:07 - STG5_Hechos - Dispatching started for transformation [STG5_Hechos]
+2021/10/28 20:27:07 - STG5_Hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:07 - LOG_STG5_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:07 - TBL_genero.0 - Finished reading query, closing connection.
+2021/10/28 20:27:07 - TBL_genero.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2021/10/28 20:27:07 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:07 - STG4_HECHOS.0 - Finished reading query, closing connection.
+2021/10/28 20:27:07 - STG4_HECHOS.0 - Finished processing (I=252, O=0, R=0, W=252, U=0, E=0)
+2021/10/28 20:27:07 - dimensionGenero.0 - Finished processing (I=0, O=0, R=252, W=252, U=0, E=0)
+2021/10/28 20:27:07 - ValidacionPalabra.0 - Finished processing (I=0, O=0, R=252, W=252, U=0, E=0)
+2021/10/28 20:27:08 - ValidacionGeneracion.0 - Finished processing (I=0, O=0, R=254, W=252, U=0, E=0)
+2021/10/28 20:27:08 - Validador.0 - Finished processing (I=0, O=0, R=252, W=251, U=0, E=1)
+2021/10/28 20:27:08 - Error.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2021/10/28 20:27:08 - STG5_Hechos.0 - Finished processing (I=0, O=251, R=251, W=251, U=0, E=0)
+2021/10/28 20:27:08 - LOG_STG5_HECHOS.0 - Finished processing (I=0, O=1, R=1, W=1, U=0, E=0)
+2021/10/28 20:27:08 - TFM_DWH - Starting entry [STG6_HECHOS]
+2021/10/28 20:27:08 - STG6_HECHOS - Using run configuration [Pentaho local]
+2021/10/28 20:27:08 - STG6_HECHOS - Running transformation using the Kettle execution engine
+2021/10/28 20:27:08 - STG6_Hechos - Dispatching started for transformation [STG6_Hechos]
+2021/10/28 20:27:08 - STG6_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:08 - LOG_STG6_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:08 - TBL_Estudio.0 - Finished reading query, closing connection.
+2021/10/28 20:27:08 - TBL_Estudio.0 - Finished processing (I=13, O=0, R=0, W=13, U=0, E=0)
+2021/10/28 20:27:08 - STG5_Hechos.0 - Finished reading query, closing connection.
+2021/10/28 20:27:08 - STG5_Hechos.0 - Finished processing (I=251, O=0, R=0, W=251, U=0, E=0)
+2021/10/28 20:27:08 - OrdenFila.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/28 20:27:08 - dimensionEstudio.0 - Finished processing (I=0, O=0, R=251, W=251, U=0, E=0)
+2021/10/28 20:27:08 - ValidarEstudio.0 - Finished processing (I=0, O=0, R=251, W=251, U=0, E=0)
+2021/10/28 20:27:08 - CruceDimension.0 - Finished processing (I=0, O=0, R=264, W=251, U=0, E=0)
+2021/10/28 20:27:08 - Validador.0 - Finished processing (I=0, O=0, R=251, W=248, U=0, E=3)
+2021/10/28 20:27:08 - Error.0 - Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2021/10/28 20:27:08 - LOG_STG6_HECHOS.0 - Finished processing (I=0, O=3, R=3, W=3, U=0, E=0)
+2021/10/28 20:27:08 - STG6_HECHOS.0 - Finished processing (I=0, O=248, R=248, W=248, U=0, E=0)
+2021/10/28 20:27:08 - TFM_DWH - Starting entry [STG7_HECHOS]
+2021/10/28 20:27:08 - STG7_HECHOS - Using run configuration [Pentaho local]
+2021/10/28 20:27:08 - STG7_HECHOS - Running transformation using the Kettle execution engine
+2021/10/28 20:27:08 - STG7_Hechos - Dispatching started for transformation [STG7_Hechos]
+2021/10/28 20:27:08 - STG7_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:08 - LOG_STG7_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:08 - TBL_Estudio.0 - Finished reading query, closing connection.
+2021/10/28 20:27:08 - TBL_Estudio.0 - Finished processing (I=13, O=0, R=0, W=13, U=0, E=0)
+2021/10/28 20:27:08 - STG6_HECHOS.0 - Finished reading query, closing connection.
+2021/10/28 20:27:08 - STG6_HECHOS.0 - Finished processing (I=248, O=0, R=0, W=248, U=0, E=0)
+2021/10/28 20:27:08 - Order.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/10/28 20:27:08 - dimensionEstudio.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/10/28 20:27:08 - Validacion.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/10/28 20:27:09 - CruceDimension.0 - Finished processing (I=0, O=0, R=261, W=248, U=0, E=0)
+2021/10/28 20:27:09 - Validador.0 - Finished processing (I=0, O=0, R=248, W=246, U=0, E=2)
+2021/10/28 20:27:09 - Error.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:09 - LOG_STG7_HECHOS.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/10/28 20:27:09 - STG7_HECHOS.0 - Finished processing (I=0, O=246, R=246, W=246, U=0, E=0)
+2021/10/28 20:27:09 - TFM_DWH - Starting entry [FACT_CORP]
+2021/10/28 20:27:09 - FACT_CORP - Using run configuration [Pentaho local]
+2021/10/28 20:27:09 - FACT_CORP - Running transformation using the Kettle execution engine
+2021/10/28 20:27:09 - FACT_CORP - Dispatching started for transformation [FACT_CORP]
+2021/10/28 20:27:09 - FACT_CORP.0 - Connected to database [CON_TFM] (commit=1000)
+2021/10/28 20:27:09 - FACT_NUEVOS.0 - Finished reading query, closing connection.
+2021/10/28 20:27:09 - FACT_NUEVOS.0 - Finished processing (I=246, O=0, R=0, W=246, U=0, E=0)
+2021/10/28 20:27:09 - STG7_HECHOS.0 - Finished reading query, closing connection.
+2021/10/28 20:27:09 - STG7_HECHOS.0 - Finished processing (I=246, O=0, R=0, W=246, U=0, E=0)
+2021/10/28 20:27:09 - Delete.0 - Finished processing (I=0, O=0, R=246, W=246, U=246, E=0)
+2021/10/28 20:27:09 - InnerJoin_DatosUnicos.0 - Finished processing (I=0, O=0, R=492, W=246, U=0, E=0)
+2021/10/28 20:27:09 - AdicionarSecuencia.0 - Finished processing (I=0, O=0, R=246, W=246, U=0, E=0)
+2021/10/28 20:27:09 - FACT_CORP.0 - Finished processing (I=0, O=246, R=246, W=246, U=0, E=0)
+2021/10/28 20:27:09 - TFM_DWH - Starting entry [MoverArchivo.bat]
+2021/10/28 20:27:09 - MoverArchivo.bat - Running on platform : Windows 10
+2021/10/28 20:27:09 - MoverArchivo.bat - Executing command : cmd.exe /C "D:\Maestria\TFM\BAT\MoverArchivo.bat"
+2021/10/28 20:27:09 - MoverArchivo.bat - (stdout) 
+2021/10/28 20:27:09 - MoverArchivo.bat - (stdout) C:\Pentaho\data-integration>D:
+2021/10/28 20:27:09 - MoverArchivo.bat - (stdout) 
+2021/10/28 20:27:09 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\BAT>cd D:\Maestria\TFM\Datos\INPUT\CargaDatos 
+2021/10/28 20:27:09 - MoverArchivo.bat - (stdout) 
+2021/10/28 20:27:09 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>MOVE BASE_*.xlsx Archivos_Procesados 
+2021/10/28 20:27:09 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos\BASE_2021103.xlsx
+2021/10/28 20:27:09 - MoverArchivo.bat - (stdout) Se han movido         1 archivos.
+2021/10/28 20:27:09 - TFM_DWH - Starting entry [Success]
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [Success] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [MoverArchivo.bat] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [FACT_CORP] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [STG7_HECHOS] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [STG6_HECHOS] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [STG5_HECHOS] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [STG4_HECHOS] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [STG3_HECHOS] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [STG2_HECHOS] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [STG1_HECHOS] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [load_Dimensiones] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [Cargar Informacion] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [RenombrarArchivo.bat] (result=[true])
+2021/10/28 20:27:09 - TFM_DWH - Finished job entry [ValidarRegistros] (result=[true])
+2021/10/28 20:27:09 - INICIO_MALLA - Starting entry [GENERAVISUALIZACION]
+2021/10/28 20:27:09 - GENERAVISUALIZACION - Using run configuration [Pentaho local]
+2021/10/28 20:27:09 - GENERAKPI - Starting entry [Visualizacion1.py]
+2021/10/28 20:27:09 - Visualizacion1.py - Running on platform : Windows 10
+2021/10/28 20:27:09 - Visualizacion1.py - Executing command : cmd.exe /C "D:\Maestria\TFM\PY\Visualizaciones\Visualizacion1.py"
+2021/10/28 20:27:22 - Visualizacion1.py - (stdout) PostgreSQL conexion cerrada
+2021/10/28 20:27:22 - Visualizacion1.py - (stdout) Archivo Generado
+2021/10/28 20:27:22 - GENERAKPI - Finished job entry [Visualizacion1.py] (result=[true])
+2021/10/28 20:27:22 - INICIO_MALLA - Starting entry [FinalizaOK]
+2021/10/28 20:27:22 - INICIO_MALLA - Finished job entry [FinalizaOK] (result=[true])
+2021/10/28 20:27:22 - INICIO_MALLA - Finished job entry [GENERAVISUALIZACION] (result=[true])
+2021/10/28 20:27:22 - INICIO_MALLA - Finished job entry [DWH] (result=[true])
+2021/10/28 20:27:22 - INICIO_MALLA - Finished job entry [CARGAINFO] (result=[true])
+2021/10/28 20:27:22 - INICIO_MALLA - Job execution finished
+2021/10/28 20:27:22 - Kitchen - Finished!
+2021/10/28 20:27:22 - Kitchen - Start=2021/10/28 20:26:51.545, Stop=2021/10/28 20:27:22.428
+2021/10/28 20:27:22 - Kitchen - Processing ended after 30 seconds.
+2021/12/03 04:29:04 - Kitchen - Start of run.
+2021/12/03 04:29:28 - INICIO_MALLA - Start of job execution
+2021/12/03 04:29:28 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/12/03 04:29:28 - INICIO_MALLA - Starting entry [DWH]
+2021/12/03 04:29:28 - DWH - Using run configuration [Pentaho local]
+2021/12/03 04:29:28 - TFM_DWH - Starting entry [ValidarRegistros]
+2021/12/03 04:29:28 - TFM_DWH - Starting entry [RenombrarArchivo.bat]
+2021/12/03 04:29:28 - RenombrarArchivo.bat - Running on platform : Windows 10
+2021/12/03 04:29:28 - RenombrarArchivo.bat - Executing command : cmd.exe /C "D:\Maestria\TFM\BAT\RenombrarArchivo.bat"
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) C:\Pentaho\data-integration>D:
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\BAT>cd D:\Maestria\TFM\Datos\INPUT\CargaDatos 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>echo on 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>for /F "skip=1" %x in ('wmic os get localdatetime') do if not defined MyDate set MyDate=%x 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>if not defined MyDate set MyDate=20211203042929.264000-300 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>if not defined MyDate set MyDate=
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout)  
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set today=2021-12-03 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_year=2021" 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_month=12" 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set "_day=03" 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>set cnt=0 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>dir /b BASE_*.xlsx /s   2>nul  | find "" /v /c   1>tmp  && set /p count=  0<tmp  && del tmp   && echo  
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) ECHO est  activado.
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) 
+2021/12/03 04:29:29 - RenombrarArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>REN  BASE_*.xlsx  BASE_2021127.xlsx 
+2021/12/03 04:29:29 - TFM_DWH - Starting entry [Cargar Informacion]
+2021/12/03 04:29:29 - Cargar Informacion - Using run configuration [Pentaho local]
+2021/12/03 04:29:29 - Cargar Informacion - Running transformation using the Kettle execution engine
+2021/12/03 04:29:29 - CargaInformacion - Dispatching started for transformation [CargaInformacion]
+2021/12/03 04:29:29 - Carga_IN.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:29 - Insert_log.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:29 - InsertLogTiempo.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:29 - TFM_DWH - Starting entry [load_Dimensiones]
+2021/12/03 04:29:30 - load_Dimensiones - Using run configuration [Pentaho local]
+2021/12/03 04:29:30 - load_Dimensiones - Running transformation using the Kettle execution engine
+2021/12/03 04:29:30 - Dimensiones - Dispatching started for transformation [Dimensiones]
+2021/12/03 04:29:30 - LOG_DIM_DELITOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - log_Dim_Ocupacion.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - log_Dim_Genero.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - LOG_NivelConsumo.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - LOG_DIM_TIPOfAMILIAR.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - DIM_SIT_JOVEN.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - DIM_NIVEL_CONSUMO.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - log_dim_escolApr.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - DIM_DIMENSIONES.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - DIM_TIP_FAMILIAR.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - log_SitContable.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - DIM_GENERO.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - DIM_ESCOLARIDAD.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - DIM_OCUPACION.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - TBL_Escolaridad.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_escolaridad.csv'
+2021/12/03 04:29:30 - TBL_NivConsumo.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_niv_consumo.csv'
+2021/12/03 04:29:30 - TBL_Ocupacion.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_ocupacion.csv'
+2021/12/03 04:29:30 - TBL_sit_joven.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_sit_joven.csv'
+2021/12/03 04:29:30 - TBL_Genero.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_genero.csv'
+2021/12/03 04:29:30 - NombreDimension.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/12/03 04:29:30 - NombreOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/12/03 04:29:30 - TBL_sit_joven.0 - Finished processing (I=9, O=0, R=0, W=8, U=0, E=0)
+2021/12/03 04:29:30 - TBL_Ocupacion.0 - Finished processing (I=5, O=0, R=0, W=4, U=0, E=0)
+2021/12/03 04:29:30 - TBL_NivConsumo.0 - Finished processing (I=6, O=0, R=0, W=5, U=0, E=0)
+2021/12/03 04:29:30 - NombreEstudiar.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/12/03 04:29:30 - TBL_tipFamiliar.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_tip_familiar.csv'
+2021/12/03 04:29:30 - TBL_Delito.0 - Header row skipped in file 'D:\Maestria\TFM\Datos\INPUT\Dimensiones\dim_delito.csv'
+2021/12/03 04:29:30 - TBL_Escolaridad.0 - Finished processing (I=14, O=0, R=0, W=13, U=0, E=0)
+2021/12/03 04:29:30 - TBL_tipFamiliar.0 - Finished processing (I=8, O=0, R=0, W=7, U=0, E=0)
+2021/12/03 04:29:30 - NombreGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/12/03 04:29:30 - NombreSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/12/03 04:29:30 - TBL_Genero.0 - Finished processing (I=3, O=0, R=0, W=2, U=0, E=0)
+2021/12/03 04:29:30 - TBL_Delito.0 - Finished processing (I=24, O=0, R=0, W=23, U=0, E=0)
+2021/12/03 04:29:30 - NombrDim_TipFamiliar.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/12/03 04:29:30 - NombrDimension.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/12/03 04:29:30 - ValidacionGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/12/03 04:29:30 - ValidacionooOCUPACION.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/12/03 04:29:30 - ValidacionSit.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/12/03 04:29:30 - ValidarFuncionTip.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/12/03 04:29:30 - ValidarNivConsumo.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/12/03 04:29:30 - Validacion.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/12/03 04:29:30 - ValidarEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/12/03 04:29:30 - RegistroUnicoEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/12/03 04:29:30 - RegistroUnicoSitConta.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/12/03 04:29:30 - Add sequenceOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/12/03 04:29:30 - RegistroUnico_Consulta.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/12/03 04:29:30 - RegistroUnicoTFami.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/12/03 04:29:30 - Add sequence.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/12/03 04:29:30 - Validador.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/12/03 04:29:30 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/12/03 04:29:30 - OrdenarFilas 2.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/12/03 04:29:30 - RegistroValidacionOcupacion.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/12/03 04:29:30 - Ordenar Fila.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/12/03 04:29:30 - OrdenarFila.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/12/03 04:29:30 - RegistroValidacionGenero.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/12/03 04:29:30 - ValidarFunction.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/12/03 04:29:30 - OrdenarFila3 2.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/12/03 04:29:30 - ValidadorEscolaridad.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/12/03 04:29:30 - OrdenarFila3.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/12/03 04:29:30 - ValidacionFuncion.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/12/03 04:29:30 - ValidacionSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/12/03 04:29:30 - Validacion 2.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/12/03 04:29:30 - ValidarFuncion.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/12/03 04:29:30 - NumeroIDDimension.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/12/03 04:29:30 - NumeroIdSecuencia.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/12/03 04:29:30 - Numero_IDentificacion.0 - Finished processing (I=0, O=0, R=21, W=21, U=0, E=0)
+2021/12/03 04:29:30 - RegistroUnico.0 - Finished processing (I=0, O=0, R=23, W=21, U=0, E=0)
+2021/12/03 04:29:30 - NumeroIdentidacion_Escola.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/12/03 04:29:30 - NumeroIdSitJoven.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/12/03 04:29:30 - Ordenar_Fila.0 - Finished processing (I=0, O=0, R=23, W=23, U=0, E=0)
+2021/12/03 04:29:30 - DIM_ESCOLARIDAD.0 - Finished processing (I=0, O=13, R=13, W=13, U=0, E=0)
+2021/12/03 04:29:30 - DIM_GENERO.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/12/03 04:29:30 - DIM_DIMENSIONES.0 - Finished processing (I=0, O=21, R=21, W=21, U=0, E=0)
+2021/12/03 04:29:30 - DIM_SIT_JOVEN.0 - Finished processing (I=0, O=8, R=8, W=8, U=0, E=0)
+2021/12/03 04:29:30 - DIM_NIVEL_CONSUMO.0 - Finished processing (I=0, O=5, R=5, W=5, U=0, E=0)
+2021/12/03 04:29:30 - DIM_OCUPACION.0 - Finished processing (I=0, O=4, R=4, W=4, U=0, E=0)
+2021/12/03 04:29:30 - DIM_TIP_FAMILIAR.0 - Finished processing (I=0, O=7, R=7, W=7, U=0, E=0)
+2021/12/03 04:29:30 - TFM_DWH - Starting entry [STG1_HECHOS]
+2021/12/03 04:29:30 - STG1_HECHOS - Using run configuration [Pentaho local]
+2021/12/03 04:29:30 - STG1_HECHOS - Running transformation using the Kettle execution engine
+2021/12/03 04:29:30 - STG1_Hechos - Dispatching started for transformation [STG1_Hechos]
+2021/12/03 04:29:30 - STG1_Hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - log_stg1_hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:30 - TBL_DIMENSIONES.0 - Finished reading query, closing connection.
+2021/12/03 04:29:30 - TBL_DIMENSIONES.0 - Finished processing (I=21, O=0, R=0, W=21, U=0, E=0)
+2021/12/03 04:29:30 - OrdenarDelitos.0 - Finished processing (I=0, O=0, R=21, W=21, U=0, E=0)
+2021/12/03 04:29:30 - cor_in_base.0 - Finished reading query, closing connection.
+2021/12/03 04:29:30 - cor_in_base.0 - Finished processing (I=486, O=0, R=0, W=486, U=0, E=0)
+2021/12/03 04:29:30 - NombreDelito.0 - Finished processing (I=0, O=0, R=486, W=486, U=0, E=0)
+2021/12/03 04:29:30 - ValidacionPalabra.0 - Finished processing (I=0, O=0, R=486, W=486, U=0, E=0)
+2021/12/03 04:29:31 - JoinDelitos_Hechos.0 - Finished processing (I=0, O=0, R=507, W=486, U=0, E=0)
+2021/12/03 04:29:31 - Validador.0 - Finished processing (I=0, O=0, R=486, W=484, U=0, E=2)
+2021/12/03 04:29:31 - Error.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/12/03 04:29:31 - log_stg1_hechos.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2021/12/03 04:29:31 - STG1_Hechos.0 - Finished processing (I=0, O=484, R=484, W=484, U=0, E=0)
+2021/12/03 04:29:31 - TFM_DWH - Starting entry [STG2_HECHOS]
+2021/12/03 04:29:31 - STG2_HECHOS - Using run configuration [Pentaho local]
+2021/12/03 04:29:31 - STG2_HECHOS - Running transformation using the Kettle execution engine
+2021/12/03 04:29:31 - STG2_Hechos - Dispatching started for transformation [STG2_Hechos]
+2021/12/03 04:29:31 - STG2_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:31 - log_stg2_hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:31 - TBL_TipFamiliar.0 - Finished reading query, closing connection.
+2021/12/03 04:29:31 - TBL_TipFamiliar.0 - Finished processing (I=7, O=0, R=0, W=7, U=0, E=0)
+2021/12/03 04:29:31 - STG1_Hechos.0 - Finished reading query, closing connection.
+2021/12/03 04:29:31 - STG1_Hechos.0 - Finished processing (I=484, O=0, R=0, W=484, U=0, E=0)
+2021/12/03 04:29:31 - OrdenarTipFamiliar.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/12/03 04:29:31 - NombreTipoFamilia.0 - Finished processing (I=0, O=0, R=484, W=484, U=0, E=0)
+2021/12/03 04:29:31 - ValidacionTipFamiliar.0 - Finished processing (I=0, O=0, R=484, W=484, U=0, E=0)
+2021/12/03 04:29:31 - JoinTipoFamiliar.0 - Finished processing (I=0, O=0, R=491, W=484, U=0, E=0)
+2021/12/03 04:29:31 - Validador.0 - Finished processing (I=0, O=0, R=484, W=466, U=0, E=18)
+2021/12/03 04:29:31 - Error.0 - Finished processing (I=0, O=0, R=18, W=18, U=0, E=0)
+2021/12/03 04:29:31 - log_stg2_hechos.0 - Finished processing (I=0, O=18, R=18, W=18, U=0, E=0)
+2021/12/03 04:29:31 - STG2_HECHOS.0 - Finished processing (I=0, O=466, R=466, W=466, U=0, E=0)
+2021/12/03 04:29:31 - TFM_DWH - Starting entry [STG3_HECHOS]
+2021/12/03 04:29:31 - STG3_HECHOS - Using run configuration [Pentaho local]
+2021/12/03 04:29:31 - STG3_HECHOS - Running transformation using the Kettle execution engine
+2021/12/03 04:29:31 - STG3_Hechos - Dispatching started for transformation [STG3_Hechos]
+2021/12/03 04:29:31 - STG3_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:31 - LOG_STG3_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:31 - TBL_NivelConsumo.0 - Finished reading query, closing connection.
+2021/12/03 04:29:31 - TBL_NivelConsumo.0 - Finished processing (I=5, O=0, R=0, W=5, U=0, E=0)
+2021/12/03 04:29:31 - STG2_HECHOS.0 - Finished reading query, closing connection.
+2021/12/03 04:29:31 - STG2_HECHOS.0 - Finished processing (I=466, O=0, R=0, W=466, U=0, E=0)
+2021/12/03 04:29:31 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=5, W=5, U=0, E=0)
+2021/12/03 04:29:31 - dimension.0 - Finished processing (I=0, O=0, R=466, W=466, U=0, E=0)
+2021/12/03 04:29:31 - ValidacionNivelConsumo.0 - Finished processing (I=0, O=0, R=466, W=466, U=0, E=0)
+2021/12/03 04:29:32 - JoinValidacion.0 - Finished processing (I=0, O=0, R=471, W=466, U=0, E=0)
+2021/12/03 04:29:32 - valiidador.0 - Finished processing (I=0, O=0, R=466, W=305, U=0, E=161)
+2021/12/03 04:29:32 - Error.0 - Finished processing (I=0, O=0, R=161, W=161, U=0, E=0)
+2021/12/03 04:29:32 - STG3_HECHOS.0 - Finished processing (I=0, O=305, R=305, W=305, U=0, E=0)
+2021/12/03 04:29:32 - LOG_STG3_HECHOS.0 - Finished processing (I=0, O=161, R=161, W=161, U=0, E=0)
+2021/12/03 04:29:32 - TFM_DWH - Starting entry [STG4_HECHOS]
+2021/12/03 04:29:32 - STG4_HECHOS - Using run configuration [Pentaho local]
+2021/12/03 04:29:32 - STG4_HECHOS - Running transformation using the Kettle execution engine
+2021/12/03 04:29:32 - STG4_Hechos - Dispatching started for transformation [STG4_Hechos]
+2021/12/03 04:29:32 - LOG_STG4_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:32 - STG4_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:32 - TBL_sit_joven.0 - Finished reading query, closing connection.
+2021/12/03 04:29:32 - TBL_sit_joven.0 - Finished processing (I=8, O=0, R=0, W=8, U=0, E=0)
+2021/12/03 04:29:32 - STG3_HECHOS.0 - Finished reading query, closing connection.
+2021/12/03 04:29:32 - STG3_HECHOS.0 - Finished processing (I=305, O=0, R=0, W=305, U=0, E=0)
+2021/12/03 04:29:32 - dimension.0 - Finished processing (I=0, O=0, R=305, W=305, U=0, E=0)
+2021/12/03 04:29:32 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2021/12/03 04:29:32 - ValidacionSit.0 - Finished processing (I=0, O=0, R=305, W=305, U=0, E=0)
+2021/12/03 04:29:32 - ValidacionSitJoven.0 - Finished processing (I=0, O=0, R=313, W=305, U=0, E=0)
+2021/12/03 04:29:32 - valiidador.0 - Finished processing (I=0, O=0, R=305, W=252, U=0, E=53)
+2021/12/03 04:29:32 - Error.0 - Finished processing (I=0, O=0, R=53, W=53, U=0, E=0)
+2021/12/03 04:29:32 - STG4_HECHOS.0 - Finished processing (I=0, O=252, R=252, W=252, U=0, E=0)
+2021/12/03 04:29:32 - LOG_STG4_HECHOS.0 - Finished processing (I=0, O=53, R=53, W=53, U=0, E=0)
+2021/12/03 04:29:32 - TFM_DWH - Starting entry [STG5_HECHOS]
+2021/12/03 04:29:32 - STG5_HECHOS - Using run configuration [Pentaho local]
+2021/12/03 04:29:32 - STG5_HECHOS - Running transformation using the Kettle execution engine
+2021/12/03 04:29:32 - STG5_Hechos - Dispatching started for transformation [STG5_Hechos]
+2021/12/03 04:29:32 - LOG_STG5_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:32 - STG5_Hechos.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:32 - TBL_genero.0 - Finished reading query, closing connection.
+2021/12/03 04:29:32 - TBL_genero.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2021/12/03 04:29:32 - STG4_HECHOS.0 - Finished reading query, closing connection.
+2021/12/03 04:29:32 - OrdenarFilas.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2021/12/03 04:29:32 - STG4_HECHOS.0 - Finished processing (I=252, O=0, R=0, W=252, U=0, E=0)
+2021/12/03 04:29:32 - dimensionGenero.0 - Finished processing (I=0, O=0, R=252, W=252, U=0, E=0)
+2021/12/03 04:29:32 - ValidacionPalabra.0 - Finished processing (I=0, O=0, R=252, W=252, U=0, E=0)
+2021/12/03 04:29:32 - ValidacionGeneracion.0 - Finished processing (I=0, O=0, R=254, W=252, U=0, E=0)
+2021/12/03 04:29:32 - Validador.0 - Finished processing (I=0, O=0, R=252, W=251, U=0, E=1)
+2021/12/03 04:29:32 - Error.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2021/12/03 04:29:32 - LOG_STG5_HECHOS.0 - Finished processing (I=0, O=1, R=1, W=1, U=0, E=0)
+2021/12/03 04:29:32 - STG5_Hechos.0 - Finished processing (I=0, O=251, R=251, W=251, U=0, E=0)
+2021/12/03 04:29:32 - TFM_DWH - Starting entry [STG6_HECHOS]
+2021/12/03 04:29:32 - STG6_HECHOS - Using run configuration [Pentaho local]
+2021/12/03 04:29:32 - STG6_HECHOS - Running transformation using the Kettle execution engine
+2021/12/03 04:29:32 - STG6_Hechos - Dispatching started for transformation [STG6_Hechos]
+2021/12/03 04:29:32 - LOG_STG6_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:32 - STG6_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:33 - TBL_Estudio.0 - Finished reading query, closing connection.
+2021/12/03 04:29:33 - TBL_Estudio.0 - Finished processing (I=13, O=0, R=0, W=13, U=0, E=0)
+2021/12/03 04:29:33 - OrdenFila.0 - Finished processing (I=0, O=0, R=13, W=13, U=0, E=0)
+2021/12/03 04:29:33 - STG5_Hechos.0 - Finished reading query, closing connection.
+2021/12/03 04:29:33 - STG5_Hechos.0 - Finished processing (I=251, O=0, R=0, W=251, U=0, E=0)
+2021/12/03 04:29:33 - dimensionEstudio.0 - Finished processing (I=0, O=0, R=251, W=251, U=0, E=0)
+2021/12/03 04:29:33 - ValidarEstudio.0 - Finished processing (I=0, O=0, R=251, W=251, U=0, E=0)
+2021/12/03 04:29:33 - CruceDimension.0 - Finished processing (I=0, O=0, R=264, W=251, U=0, E=0)
+2021/12/03 04:29:33 - Validador.0 - Finished processing (I=0, O=0, R=251, W=248, U=0, E=3)
+2021/12/03 04:29:33 - Error.0 - Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2021/12/03 04:29:33 - LOG_STG6_HECHOS.0 - Finished processing (I=0, O=3, R=3, W=3, U=0, E=0)
+2021/12/03 04:29:33 - STG6_HECHOS.0 - Finished processing (I=0, O=248, R=248, W=248, U=0, E=0)
+2021/12/03 04:29:33 - TFM_DWH - Starting entry [STG7_HECHOS]
+2021/12/03 04:29:33 - STG7_HECHOS - Using run configuration [Pentaho local]
+2021/12/03 04:29:33 - STG7_HECHOS - Running transformation using the Kettle execution engine
+2021/12/03 04:29:33 - STG7_Hechos - Dispatching started for transformation [STG7_Hechos]
+2021/12/03 04:29:33 - STG7_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:33 - LOG_STG7_HECHOS.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:33 - TBL_Ocupacion.0 - Finished reading query, closing connection.
+2021/12/03 04:29:33 - TBL_Ocupacion.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2021/12/03 04:29:33 - STG6_HECHOS.0 - Finished reading query, closing connection.
+2021/12/03 04:29:33 - dimensionOcupacion.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/12/03 04:29:33 - Order.0 - Finished processing (I=0, O=0, R=4, W=4, U=0, E=0)
+2021/12/03 04:29:33 - STG6_HECHOS.0 - Finished processing (I=248, O=0, R=0, W=248, U=0, E=0)
+2021/12/03 04:29:33 - Validacion.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/12/03 04:29:33 - CruceDimension.0 - Finished processing (I=0, O=0, R=252, W=248, U=0, E=0)
+2021/12/03 04:29:33 - Validador.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/12/03 04:29:33 - STG7_HECHOS.0 - Finished processing (I=0, O=248, R=248, W=248, U=0, E=0)
+2021/12/03 04:29:33 - TFM_DWH - Starting entry [FACT_CORP]
+2021/12/03 04:29:33 - FACT_CORP - Using run configuration [Pentaho local]
+2021/12/03 04:29:33 - FACT_CORP - Running transformation using the Kettle execution engine
+2021/12/03 04:29:33 - FACT_CORP - Dispatching started for transformation [FACT_CORP]
+2021/12/03 04:29:33 - FACT_CORP.0 - Connected to database [CON_TFM] (commit=1000)
+2021/12/03 04:29:33 - STG7_HECHOS.0 - Finished reading query, closing connection.
+2021/12/03 04:29:33 - FACT_NUEVOS.0 - Finished reading query, closing connection.
+2021/12/03 04:29:33 - STG7_HECHOS.0 - Finished processing (I=248, O=0, R=0, W=248, U=0, E=0)
+2021/12/03 04:29:33 - FACT_NUEVOS.0 - Finished processing (I=248, O=0, R=0, W=248, U=0, E=0)
+2021/12/03 04:29:34 - Delete.0 - Finished processing (I=0, O=0, R=248, W=248, U=248, E=0)
+2021/12/03 04:29:34 - InnerJoin_DatosUnicos.0 - Finished processing (I=0, O=0, R=496, W=248, U=0, E=0)
+2021/12/03 04:29:34 - AdicionarSecuencia.0 - Finished processing (I=0, O=0, R=248, W=248, U=0, E=0)
+2021/12/03 04:29:34 - FACT_CORP.0 - Finished processing (I=0, O=248, R=248, W=248, U=0, E=0)
+2021/12/03 04:29:34 - TFM_DWH - Starting entry [MoverArchivo.bat]
+2021/12/03 04:29:34 - MoverArchivo.bat - Running on platform : Windows 10
+2021/12/03 04:29:34 - MoverArchivo.bat - Executing command : cmd.exe /C "D:\Maestria\TFM\BAT\MoverArchivo.bat"
+2021/12/03 04:29:34 - MoverArchivo.bat - (stdout) 
+2021/12/03 04:29:34 - MoverArchivo.bat - (stdout) C:\Pentaho\data-integration>D:
+2021/12/03 04:29:34 - MoverArchivo.bat - (stdout) 
+2021/12/03 04:29:34 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\BAT>cd D:\Maestria\TFM\Datos\INPUT\CargaDatos 
+2021/12/03 04:29:34 - MoverArchivo.bat - (stdout) 
+2021/12/03 04:29:34 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos>MOVE BASE_*.xlsx Archivos_Procesados 
+2021/12/03 04:29:34 - MoverArchivo.bat - (stdout) D:\Maestria\TFM\Datos\INPUT\CargaDatos\BASE_2021127.xlsx
+2021/12/03 04:29:34 - MoverArchivo.bat - (stdout) Se han movido         1 archivos.
+2021/12/03 04:29:34 - TFM_DWH - Starting entry [Success]
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [Success] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [MoverArchivo.bat] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [FACT_CORP] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [STG7_HECHOS] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [STG6_HECHOS] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [STG5_HECHOS] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [STG4_HECHOS] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [STG3_HECHOS] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [STG2_HECHOS] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [STG1_HECHOS] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [load_Dimensiones] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [Cargar Informacion] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [RenombrarArchivo.bat] (result=[true])
+2021/12/03 04:29:34 - TFM_DWH - Finished job entry [ValidarRegistros] (result=[true])
+2021/12/03 04:29:34 - INICIO_MALLA - Starting entry [GENERAMODELOS]
+2021/12/03 04:29:34 - GENERAMODELOS - Using run configuration [Pentaho local]
+2021/12/03 04:29:34 - GENERAKPI - Starting entry [Visualizacion1.py]
+2021/12/03 04:29:34 - Visualizacion1.py - Running on platform : Windows 10
+2021/12/03 04:29:34 - Visualizacion1.py - Executing command : cmd.exe /C "D:\Maestria\TFM\PY\Visualizaciones\Visualizacion1.py"
+2021/12/03 04:29:41 - Visualizacion1.py - (stdout) PostgreSQL conexion cerrada
+2021/12/03 04:29:41 - Visualizacion1.py - (stdout) Archivo Generado
+2021/12/03 04:29:41 - GENERAKPI - Finished job entry [Visualizacion1.py] (result=[true])
+2021/12/03 04:29:41 - INICIO_MALLA - Starting entry [FinalizaOK]
+2021/12/03 04:29:41 - INICIO_MALLA - Finished job entry [FinalizaOK] (result=[true])
+2021/12/03 04:29:41 - INICIO_MALLA - Finished job entry [GENERAMODELOS] (result=[true])
+2021/12/03 04:29:41 - INICIO_MALLA - Finished job entry [DWH] (result=[true])
+2021/12/03 04:29:41 - INICIO_MALLA - Job execution finished
+2021/12/03 04:29:41 - Kitchen - Finished!
+2021/12/03 04:29:41 - Kitchen - Start=2021/12/03 04:29:04.908, Stop=2021/12/03 04:29:41.094
+2021/12/03 04:29:41 - Kitchen - Processing ended after 36 seconds.

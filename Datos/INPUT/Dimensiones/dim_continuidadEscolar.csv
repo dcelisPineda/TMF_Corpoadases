@@ -1,0 +1,9 @@
+id,ocupacion_joven
+0,SinContinuidad
+1,Continuidad
+
+
+
+cantidad de predicciones positivas que fueron correctas. = accuracy
+porcentaje de casos positivos detectados.  = Precision
+Es la proporción de casos positivos que fueron correctamente identificadas por el algoritmo. => recall

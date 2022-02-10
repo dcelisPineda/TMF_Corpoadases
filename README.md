@@ -231,9 +231,41 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
     <td>Este proceso cruza la información de la tabla STG4_Hechos, limpiando y validando el campo genero con la tabla <b>DIM_GENERO</b>, 
 	los registros que no crucen se envían a una tabla(<b>log_stg5_hechos/b>) que el equipo de trabajo
 	pueda revisarlos y de ser necesario arreglarlos para volver a procesar la información, de lo contrato se 
-	insertan los registros en la tabla <b>STG5_HECHOS/b>.
+	insertan los registros en la tabla <b>STG5_HECHOS</b>.
 	</td>
   </tr>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg5.JPG)
+<h4>STG6_HECHOS</h4>
+<table class="default">
+  <tr>
+    <td><b>Proceso</b></td>
+    <td>STG6_Hechos.ktr</td>
+  </tr>
+  <tr>
+    <td><b>Origen</b></td>
+    <td><p>Public.dim_escolaridad</p>
+		<p>Public.STG5_HECHOS</p>	
+</td>
+  </tr>
+  <tr>
+    <td><b>Destino</b></td>
+    <td>
+	    <p>Public.STG6_HECHOS</p>
+		<p>Public.log_stg6_hechos</p>	
+    </td>
+  </tr>
+  <tr>
+    <td><b>Descripción</b></td>
+    <td>Este proceso cruza la información de la tabla <b>STG5_Hechos</b>,
+	limpiando y validando el campo escolaridad con la tabla DIM_ESCOLARIDAD, 
+	los registros que no crucen se envían a una tabla(<b>log_stg6_hechos</b>) que el equipo
+	de trabajo pueda revisarlos y de ser necesario arreglarlos para volver a procesar la información, 
+	de lo contrato se insertan los registros en la tabla <b>STG6_HECHOS</b>.
+	</td>
+  </tr>
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg6.JPG)
+

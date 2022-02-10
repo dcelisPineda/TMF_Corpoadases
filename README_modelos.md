@@ -17,3 +17,89 @@
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion1.JPG)
+
+<h4>Visualizacion2</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion2.JPG)
+
+
+<h4>Visualizacion3</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion3.JPG)
+
+
+<h4>Visualizacion4</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion4.JPG)
+
+<h4>Visualizacion5</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion5.JPG)
+
+<h4>Visualizacion6</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion6_1.JPG)
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion6_2.JPG)
+
+<h4>Visualizacion7</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion7.JPG)
+
+<h4>Visualizacion8</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion8.JPG)
+
+<h4>Visualizacion10</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion10.JPG)
+
+<h4>Visualizacion11</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion11.JPG)
+
+<h4>Visualizacion12</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionrRandonForest.JPG)
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionrRegresionLo.JPG)
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionSVM.JPG)
+
+
+<h4>Modelos</h4>
+<table class="default">
+ 
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion12.JPG)
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion121.JPG)
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion122.JPG)

@@ -8,6 +8,9 @@
 	</tr>
 </table>
 
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/modelado.JPG)
+
 <h4>Visualizacion1</h4>
 <table class="default">
  

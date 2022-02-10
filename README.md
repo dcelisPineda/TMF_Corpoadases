@@ -23,3 +23,4 @@ Numero Documento que sea numérico.
 Tipo de sanción contenga los valores Meses, Días.
 Si alguno de los dos (2) campos no cumple con las reglas se enviará la tabla log_estrcuturaarchivos, 
 de lo contrario pasaran los registros en la tabla Public. COR_IN_BASE.
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/validador.JPG)

@@ -103,10 +103,10 @@
 
 
 <p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/RegresionLogistica.py"><h5><b>RegresionLogistica</b></h5></a><p>	
-![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionrRegresionLo.JPG)
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionrRandonForest.JPG)
 
 <p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/SVC.py"><h5><b>SVM</b></h5></a><p>	
-![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionSVM.JPG)
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionrRandonForest.JPG)
 
 
 <h4>Modelos</h4>

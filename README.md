@@ -102,8 +102,8 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
   <tr>
     <td><b>Destino</b></td>
     <td>
-	    <p>Public.STG1_Hechos</p>
-		<p>Public.log_stg1_hechos</p>	
+	 <p>Public.STG1_Hechos</p>
+	<p>Public.log_stg1_hechos</p>	
     </td>
   </tr>
   <tr>
@@ -117,7 +117,6 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg1.JPG)
-
 <h4>STG2_Hechos</h4>
 <table class="default">
   <tr>
@@ -126,15 +125,15 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
   </tr>
   <tr>
     <td><b>Origen</b></td>
-    <td><p>Public.STG2_HECHOS</p>
-		<p>public.dim_tip_familiar</p>	
+    <td><p>Public.STG1_HECHOS</p>
+     <p>public.dim_tip_familiar</p>	
 </td>
   </tr>
   <tr>
     <td><b>Destino</b></td>
     <td>
-	    <p>Public.STG1_Hechos</p>
-		<p>Public.log_stg1_hechos</p>	
+	    <p>Public.STG2_Hechos</p>
+	   <p>Public.log_stg1_hechos</p>	
     </td>
   </tr>
   <tr>
@@ -148,3 +147,93 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg2.JPG)
+<h4>STG3_Hechos</h4>
+<table class="default">
+  <tr>
+    <td><b>Proceso</b></td>
+    <td>STG3_Hechos.ktr</td>
+  </tr>
+  <tr>
+    <td><b>Origen</b></td>
+    <td><p>Public.STG2_HECHOS</p>
+		<p>public.dim_niv_consumo</p>	
+</td>
+  </tr>
+  <tr>
+    <td><b>Destino</b></td>
+    <td>
+	    <p>Public.STG3_HECHOS</p>
+		<p>Public.log_stg3_hechos</p>	
+    </td>
+  </tr>
+  <tr>
+    <td><b>Descripción</b></td>
+    <td>Este proceso cruza la información de la tabla STG2_Hechos, limpiando y validando el campo nivel Consumo con la tabla <b>DIM_NIV_CONSUMO</b>,
+	los registros que no crucen se envían a una tabla(<b>log_stg3_hechos</b>) que el equipo de trabajo pueda 
+	revisarlos y de ser necesario arreglarlos para volver a procesar la información, de lo contrato se insertan 
+	los registros en la tabla <b>STG3_HECHOS</b>.</td>
+  </tr>
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg3.JPG)
+
+<h4>STG4_Hechos</h4>
+<table class="default">
+  <tr>
+    <td><b>Proceso</b></td>
+    <td>STG4_Hechos.ktr</td>
+  </tr>
+  <tr>
+    <td><b>Origen</b></td>
+    <td><p>Public.dim_sit_joven</p>
+		<p>Public.STG3_HECHOS</p>	
+</td>
+  </tr>
+  <tr>
+    <td><b>Destino</b></td>
+    <td>
+	    <p>Public.STG4_HECHOS</p>
+		<p>Public.log_stg4_hechos</p>	
+    </td>
+  </tr>
+  <tr>
+    <td><b>Descripción</b></td>
+    <td>Este proceso cruza la información de la tabla <b>STG3_Hechos</b>, limpiando y validando 
+	el campo situación Joven con la tabla <b>DIM_SIT_JOVEN</b>, los registros que no crucen se envían
+	a una tabla(<b>log_stg4_hechos</b>) que el equipo de trabajo pueda revisarlos y de ser necesario arreglarlos 
+	para volver a procesar la información, de lo contrato se insertan los registros en la tabla STG4_HECHOS.
+	</td>
+  </tr>
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg4.JPG)
+<h4>STG5_HECHOS</h4>
+<table class="default">
+  <tr>
+    <td><b>Proceso</b></td>
+    <td>STG5_Hechos.ktr</td>
+  </tr>
+  <tr>
+    <td><b>Origen</b></td>
+    <td><p>Public.dim_genero</p>
+		<p>Public.STG4_HECHOS</p>	
+</td>
+  </tr>
+  <tr>
+    <td><b>Destino</b></td>
+    <td>
+	    <p>Public.STG5_HECHOS</p>
+		<p>Public.log_stg5_hechos</p>	
+    </td>
+  </tr>
+  <tr>
+    <td><b>Descripción</b></td>
+    <td>Este proceso cruza la información de la tabla STG4_Hechos, limpiando y validando el campo genero con la tabla <b>DIM_GENERO</b>, 
+	los registros que no crucen se envían a una tabla(<b>log_stg5_hechos/b>) que el equipo de trabajo
+	pueda revisarlos y de ser necesario arreglarlos para volver a procesar la información, de lo contrato se 
+	insertan los registros en la tabla <b>STG5_HECHOS/b>.
+	</td>
+  </tr>
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg5.JPG)

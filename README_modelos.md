@@ -94,18 +94,18 @@
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion11.JPG)
 <p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionOnce.py"><h5><b>DescargarVisualizacion11</b></h5></a><p>
 
-<h4>Visualizacion12</h4>
+<h4>Modelos</h4>
 <table class="default">
  
 </table>
-
-![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionrRandonForest.JPG)
 <p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/ReincidenciaDelito_Final.py"><h5><b>RandonForest</b></h5></a><p>
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionrRandonForest.JPG)
 
-	
+
+<p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/RegresionLogistica.py"><h5><b>RegresionLogistica</b></h5></a><p>	
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/RegresionLogistica.JPG)
-<p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/RegresionLogistica.py"><h5><b>RegresionLogistica</b></h5></a><p>
-	
+
+<p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/SVC.py"><h5><b>SVM</b></h5></a><p>	
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionSVM.JPG)
 
 

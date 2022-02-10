@@ -68,6 +68,7 @@
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion7.JPG)
+<p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionSiete.py"><h5><b>DescargarVisualizacion7</b></h5></a><p>
 
 <h4>Visualizacion8</h4>
 <table class="default">

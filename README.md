@@ -8,10 +8,11 @@ continuando con el procesamiento de la información y finalmente la generación 
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/Inicio.JPG)
 
+<b>TFM_DWH</b>:
+Este paso se incluye el procesamiento de la información, se inicia con la validación de los archivos, continuando con la carga de las dimensiones y continua con la limpieza de datos.
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/dwh_inicio.JPG)
 
-
-
-Cargar Información
+<b>Cargar Información</b>:
 Proceso: CargaInformacion.ktr
 Origen	Archivo Excel Base_[Enumerado]
 Destino	Public.COR_IN_BASE

@@ -100,6 +100,7 @@
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionrRandonForest.JPG)
+<p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/ReincidenciaDelito_Final.py"><h5><b>RandonForest</b></h5></a><p>
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionrRegresionLo.JPG)
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionSVM.JPG)
 

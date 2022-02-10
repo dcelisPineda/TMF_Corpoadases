@@ -58,9 +58,10 @@
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion6_1.JPG)
+<p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionSeis1.py"><h5><b>DescargarVisualizacion6_1</b></h5></a><p>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion6_2.JPG)
-
+<p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionSeis2.py"><h5><b>DescargarVisualizacion6_2</b></h5></a><p>
 <h4>Visualizacion7</h4>
 <table class="default">
  

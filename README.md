@@ -2,7 +2,7 @@
 Etl para el Procesamiento Información
 Para el desarrollo del procesamiento de la información se realizará usando el programa PENTAHO y para el almacenamiento el motor de base de datos POSTGRESQL.
 
-Inicio:
+<b>Inicio</b>:
 Job Inicial con el que arranca el procesamiento de información el cual Tiene como primer paso el arranque del proceso Star,
 continuando con el procesamiento de la información y finalmente la generación de los modelos Analíticos.
 

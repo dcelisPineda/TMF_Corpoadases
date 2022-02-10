@@ -104,6 +104,8 @@
 
 	
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/RegresionLogistica.JPG)
+<p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/RegresionLogistica.py"><h5><b>RegresionLogistica</b></h5></a><p>
+	
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacionSVM.JPG)
 
 

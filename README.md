@@ -6,7 +6,9 @@ Inicio:
 Job Inicial con el que arranca el procesamiento de información el cual Tiene como primer paso el arranque del proceso Star,
 continuando con el procesamiento de la información y finalmente la generación de los modelos Analíticos.
 
-IMG/Inicio.JPG
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/Inicio.JPG)
+
+
 
 
 Cargar Información

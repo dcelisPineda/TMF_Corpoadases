@@ -1,7 +1,6 @@
 # TMF_Corpoadases
 # Etl para el Procesamiento Información
 Etl para el Procesamiento Información
-Para el desarrollo del procesamiento de la información se realizará usando el programa PENTAHO y para el almacenamiento el motor de base de datos POSTGRESQL.
 
 <h4>Inicio</h4>
 Job Inicial con el que arranca el procesamiento de información el cual Tiene como primer paso el arranque del proceso Star,

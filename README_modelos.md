@@ -84,13 +84,15 @@
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion10.JPG)
-
+<p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionDiez.py"><h5><b>DescargarVisualizacion10</b></h5></a><p>
+	
 <h4>Visualizacion11</h4>
 <table class="default">
  
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion11.JPG)
+<p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionOnce.py"><h5><b>DescargarVisualizacion11</b></h5></a><p>
 
 <h4>Visualizacion12</h4>
 <table class="default">

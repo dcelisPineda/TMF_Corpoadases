@@ -4,7 +4,7 @@
 <table class="default">
 	<tr> 
 		<td><p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/README.md"><h5><b>Regresar</b></h5></a><p> <p align=right></td>
-		<td><p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/README.md"><h5><b>Ir Modelos</b></h5></a><p></td>
+		<td><p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/README_modelos.md"><h5><b>Modelos</b></h5></a><p></td>
 	</tr>
 </table>
  

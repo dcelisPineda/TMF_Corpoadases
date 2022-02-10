@@ -87,3 +87,33 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/dimension.JPG)
+<h4>STG1_HECHOS</h4>
+<table class="default">
+  <tr>
+    <td><b>Proceso</b></td>
+    <td>STG1_Hechos.ktr</td>
+  </tr>
+  <tr>
+    <td><b>Origen</b></td>
+    <td><p>Public.cor_in_base</p>
+		<p>public.dim_delitos</p>	
+</td>
+  </tr>
+  <tr>
+    <td><b>Destino</b></td>
+    <td>
+	    <p>Public.STG1_Hechos</p>
+		<p>Public.log_stg1_hechos</p>	
+    </td>
+  </tr>
+  <tr>
+    <td><b>Descripción</b></td>
+    <td>Este proceso cruza la información de la tabla <b>COR_IN_BASE</b>, limpiando y validando el campo
+	Nombre del Delito con la tabla DIM_DELITO, los registros que no crucen se envían a una tabla(<b>log_stg1_hechos</b>)
+	para que el equipo de trabajo pueda revisarlos y de ser necesario arreglarlos para  volver a procesar la información,
+	(Se tiene un control para evitar la inserción de duplicados), de lo contrato se insertan los 
+	registros en la tabla <b>STG1_Hechos</b>.</td>
+  </tr>
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg1.JPG)

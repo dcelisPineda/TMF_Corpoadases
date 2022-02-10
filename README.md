@@ -301,3 +301,30 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg7.JPG)
+<h4>FACT_CORP</h4>
+<table class="default">
+  <tr>
+    <td><b>Proceso</b></td>
+    <td>: FACT_CORP.ktr</td>
+  </tr>
+  <tr>
+    <td><b>Origen</b></td>
+    <td><p>Public.STG7_HECHOS</p>
+		<p>Public.fact_corp</p>	
+</td>
+  </tr>
+  <tr>
+    <td><b>Destino</b></td>
+    <td>
+	    <p>Public.fact_corp</p>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Descripción</b></td>
+    <td>Este proceso inserta los registros con la información transformada y
+	homologada en la tabla <b>FACT_CORP</b>, antes se realiza una validación para controlar los duplicados.
+	</td>
+  </tr>
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg8.JPG)

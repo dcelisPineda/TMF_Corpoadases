@@ -38,5 +38,4 @@ Si alguno de los dos (2) campos no cumple con las reglas se enviará la tabla lo
 de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
   </tr>
 </table>
-
-![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/validador.JPG)
+<center>![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/validador.JPG)</center>

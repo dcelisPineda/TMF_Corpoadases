@@ -117,3 +117,34 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg1.JPG)
+
+<h4>STG2_Hechos</h4>
+<table class="default">
+  <tr>
+    <td><b>Proceso</b></td>
+    <td>STG2_Hechos.ktr</td>
+  </tr>
+  <tr>
+    <td><b>Origen</b></td>
+    <td><p>Public.STG2_HECHOS</p>
+		<p>public.dim_tip_familiar</p>	
+</td>
+  </tr>
+  <tr>
+    <td><b>Destino</b></td>
+    <td>
+	    <p>Public.STG1_Hechos</p>
+		<p>Public.log_stg1_hechos</p>	
+    </td>
+  </tr>
+  <tr>
+    <td><b>Descripción</b></td>
+    <td>Este proceso cruza la información de la tabla STG1_Hechos, limpiando y validando
+	el campo Nombre Tipo Familia con la tabla <b>DIM_TIP_FAMILIAR</b>, los registros que no crucen se
+	envían a una tabla(<b>log_stg2_hechos</b>) que el equipo de trabajo pueda revisarlos y de ser necesario 
+	arreglarlos para volver a procesar la información,de lo contrato se insertan
+	los registros en la tabla <b>STG2_HECHOS</b>.</td>
+  </tr>
+</table>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg2.JPG)

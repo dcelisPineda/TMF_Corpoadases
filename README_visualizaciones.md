@@ -18,6 +18,7 @@ Tabla Contenido
  * [visualizacion3](#visualizacion3)  
  * [visualizacion4](#visualizacion4) 
  * [visualizacion5](#visualizacion5) 
+ * [visualizacion6](#visualizacion6) 
 <!--te-->
 
 
@@ -259,5 +260,45 @@ Resuelve la siguiente pregunta: <b>Nivel de Escolaridad de los Jóvenes con sanc
   </tr>
 </table>
 
+visualizacion6
+==============
+
+Resuelve la siguiente pregunta: <b>Nivel de Escolaridad de los Jóvenes con sanciones penales.</b>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion6.JPG)
+
+<table>
+  <tr>
+	  <td colspan="2"><b>Relación Tipología Familiar vrs Reincidencia en Delito</b>
+  </tr>
+   <tr>
+	 <td><b>Tabla Origen</b></td>
+         <td>
+		<p>fact_corp</p>
+	 </td>
+  </tr>
+   <tr>
+	 <td><b>Variables</b></td>
+         <td>
+		<p>Tip_familiar</p>
+		<p>Rein_delito</p>
+	 </td>
+  </tr>
+   <tr>
+	 <td><b>Tipo grafico</b></td>
+         <td>
+		<p>Gráfico de Barras Agrupadas</p>
+		<p>Distribución Chi-Cuadrado</p>
+	 </td>
+  </tr>
+  <tr>
+	 <td><b>Objetivo</b></td>
+         <td>
+	  <p>Comparar la variable Tip_familiar entre los jóvenes que reinciden y no Reinciden para determinar</p>
+          <p>si existe o no relación entre estas 2 variables usando el método chi-cuadrado para determinar la relación</p>
+          <p>entre las variables.</p>
+	 </td>
+  </tr>
+</table>
 
 

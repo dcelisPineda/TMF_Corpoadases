@@ -15,7 +15,7 @@ Resuelve la siguiente pregunta: <b>Cuáles son los motivos de Ingreso de adolesc
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion1.JPG)
 
-<table class="default">
+<table>
   <tr>
 	  <td colspan="2"><b>Motivo de Ingreso al Programa de Responsabilidad Penal</b>
   </tr>
@@ -52,7 +52,7 @@ Resuelve la siguiente pregunta: <b>Cuál es la Edad Promedio de ingreso de Jóve
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion2.JPG)
 
-<table class="default">
+<table>
   <tr>
 	  <td colspan="2"><b>Edad Promedio de ingreso de Jóvenes con sanciones penales</b>
   </tr>
@@ -82,7 +82,8 @@ Resuelve la siguiente pregunta: <b>Cuál es la Edad Promedio de ingreso de Jóve
   </tr>
 </table>
 
-<table class="default">
+
+<table>
   <tr>
 	  <td colspan="2"><b>Edad por Delito</b>
   </tr>

@@ -9,10 +9,27 @@
 	</tr>
 </table>
 
+Tabla Contenido
+==============
+
+<!--ts-->
+ * [visualizacion1](#visualizacion1)
+ * [visualizacion2](#visualizacion2)    
+ * [visualizacion3](#visualizacion3)  
+ * [visualizacion4](#visualizacion4) 
+ * [visualizacion5](#visualizacion5) 
+ * [visualizacion6](#visualizacion6) 
+ * [visualizacion7](#visualizacion7) 
+<!--te-->
+
+
+Procesamiento Pentaho
+=====================
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/modelado.JPG)
 
-<h4>Visualizacion1</h4>
+visualizacion1
+==============
 <table class="default">
  
 </table>
@@ -20,7 +37,8 @@
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion1.JPG)
 <p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionUno.py"><h5><b>DescargarVisualizacion1</b></h5></a><p>
 
-<h4>Visualizacion2</h4>
+visualizacion2
+==============
 <table class="default">
  
 </table>
@@ -28,7 +46,8 @@
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion2.JPG)
 <p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionDos.py"><h5><b>DescargarVisualizacion2</b></h5></a><p>
 
-<h4>Visualizacion3</h4>
+visualizacion3
+==============
 <table class="default">
  
 </table>
@@ -37,7 +56,8 @@
 <p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionTres.py"><h5><b>DescargarVisualizacion3</b></h5></a><p>
 
 
-<h4>Visualizacion4</h4>
+visualizacion4
+==============
 <table class="default">
  
 </table>
@@ -45,7 +65,9 @@
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion4.JPG)
 <p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionCuatro.py"><h5><b>DescargarVisualizacion4</b></h5></a><p>
 
-<h4>Visualizacion5</h4>
+
+visualizacion5
+==============
 <table class="default">
  
 </table>
@@ -53,7 +75,9 @@
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion5.JPG)
 <p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionCinco.py"><h5><b>DescargarVisualizacion5</b></h5></a><p>
 
-<h4>Visualizacion6</h4>
+	
+visualizacion6
+==============
 <table class="default">
  
 </table>
@@ -63,7 +87,9 @@
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/visualizacion6_2.JPG)
 <p><a href="https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/TFM_AnalisisDatos/visualizacionSeis2.py"><h5><b>DescargarVisualizacion6_2</b></h5></a><p>
-<h4>Visualizacion7</h4>
+
+visualizacion7
+==============
 <table class="default">
  
 </table>

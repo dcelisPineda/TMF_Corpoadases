@@ -19,6 +19,7 @@ Tabla Contenido
  * [visualizacion4](#visualizacion4) 
  * [visualizacion5](#visualizacion5) 
  * [visualizacion6](#visualizacion6) 
+ * [visualizacion7](#visualizacion7) 
 <!--te-->
 
 
@@ -301,4 +302,44 @@ Resuelve la siguiente pregunta: <b>Nivel de Escolaridad de los Jóvenes con sanc
   </tr>
 </table>
 
+visualizacion7
+==============
+
+Resuelve la siguiente pregunta: <b>Está asociado el Nivel de consumo con la reincidencia en un delito.</b>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion7.JPG)
+
+<table>
+  <tr>
+	  <td colspan="2"><b>Relación Nivel de Consumo vrs Reincidencia de Delito</b>
+  </tr>
+   <tr>
+	 <td><b>Tabla Origen</b></td>
+         <td>
+		<p>fact_corp</p>
+	 </td>
+  </tr>
+   <tr>
+	 <td><b>Variables</b></td>
+         <td>
+		<p>Niv_consumo</p>
+		<p>Rein_delito</p>
+	 </td>
+  </tr>
+   <tr>
+	 <td><b>Tipo grafico</b></td>
+         <td>
+		<p>Gráfico de Barras Agrupadas</p>
+		<p>Distribución Chi-Cuadrado</p>
+	 </td>
+  </tr>
+  <tr>
+	 <td><b>Objetivo</b></td>
+         <td>
+		 <p>Comparar la variable Niv_consumo entre los jóvenes que reinciden y no Reinciden para</p>
+		 <p>determinar si existe o no relación entre estas 2 variables usando el método chi-cuadrado</p>
+		 <p>para determinar la relación..</p>
+	 </td>
+  </tr>
+</table>
 

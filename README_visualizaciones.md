@@ -82,4 +82,36 @@ Resuelve la siguiente pregunta: <b>Cuál es la Edad Promedio de ingreso de Jóve
   </tr>
 </table>
 
+<table class="default">
+  <tr>
+	  <td colspan="2"><b>Edad por Delito</b>
+  </tr>
+   <tr>
+	 <td><b>Tabla Origen</b></td>
+         <td>
+		<p>fact_corp</p>
+	 </td>
+  </tr>
+   <tr>
+	 <td><b>Variables</b></td>
+         <td>
+		<p>Delito</p>
+		<p>Edad</p>
+	 </td>
+  </tr>
+   <tr>
+	 <td><b>Tipo grafico</b></td>
+         <td>
+		<p>Gráfico de Tarta</p>
+		<p>Tabla</p>
+	 </td>
+  </tr>
+  <tr>
+	 <td><b>Objetivo</b></td>
+         <td>
+	 <p>Comparar el porcentaje de edad de los adolescentes y jóvenes e identificar la cantidad de jóvenes agrupados por la edad y el delito.</p>
+	 </td>
+  </tr>
+</table>
+
 

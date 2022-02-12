@@ -11,7 +11,7 @@
 
 <h4>Visualizacion 1</h4>
 
-Resuelve la siguiente pregunta: Cuáles son los motivos de Ingreso de adolescentes y jóvenes con sanciones penales
+Resuelve la siguiente pregunta: <b>Cuáles son los motivos de Ingreso de adolescentes y jóvenes con sanciones penales</b>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion1.JPG)
 
@@ -29,6 +29,12 @@ Resuelve la siguiente pregunta: Cuáles son los motivos de Ingreso de adolescent
    <tr>
 	 <td><b>Variables</b></td>
          <td>
+		<p>Delito</p>
+	 </td>
+  </tr>
+   <tr>
+	 <td><b>Tipo grafico</b></td>
+         <td>
 		<p>Barras</p>
 	 </td>
   </tr>
@@ -40,5 +46,40 @@ Resuelve la siguiente pregunta: Cuáles son los motivos de Ingreso de adolescent
   </tr>
 </table>
 
+<h4>Visualizacion 2</h4>
+
+Resuelve la siguiente pregunta: <b>Cuál es la Edad Promedio de ingreso de Jóvenes con sanciones penales</b>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion2.JPG)
+
+<table class="default">
+  <tr>
+	  <td colspan="2"><b>Edad Promedio de ingreso de Jóvenes con sanciones penales</b>
+  </tr>
+   <tr>
+	 <td><b>Tabla Origen</b></td>
+         <td>
+		<p>fact_corp</p>
+	 </td>
+  </tr>
+   <tr>
+	 <td><b>Variables</b></td>
+         <td>
+		<p>Edad</p>
+	 </td>
+  </tr>
+   <tr>
+	 <td><b>Tipo grafico</b></td>
+         <td>
+		<p>Histograma</p>
+	 </td>
+  </tr>
+  <tr>
+	 <td><b>Objetivo</b></td>
+         <td>
+	 <p>Visualizar la distribución de la edad de los adolescentes y jóvenes que ingresan a la corporación resaltando la media.</p>
+	 </td>
+  </tr>
+</table>
 
 

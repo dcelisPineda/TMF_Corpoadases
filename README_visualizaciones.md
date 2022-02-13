@@ -13,14 +13,14 @@
 =================================
 
 <!--ts-->
- * [visualizacion1](#visualizacion1)
- * [visualizacion2](#visualizacion2)    
- * [visualizacion3](#visualizacion3)  
- * [visualizacion4](#visualizacion4) 
- * [visualizacion5](#visualizacion5) 
- * [visualizacion6](#visualizacion6) 
- * [visualizacion7](#visualizacion7) 
- * [visualizacion8](#visualizacion8) 
+ * [Visualizacion 1](#visualizacion1)
+ * [Visualizacion 2](#visualizacion2)    
+ * [Visualizacion 3](#visualizacion3)  
+ * [Visualizacion 4](#visualizacion4) 
+ * [Visualizacion 5](#visualizacion5) 
+ * [Visualizacion 6](#visualizacion6) 
+ * [Visualizacion 7](#visualizacion7) 
+ * [Visualizacion 8](#visualizacion8) 
 <!--te-->
 
 
@@ -69,7 +69,7 @@ visualizacion2
 ==============
 
 <!--ts-->
- * [tablacontenido](#tablacontenido)
+ * [Tabla Contenido](#tablacontenido)
 <!--te-->
 
 Resuelve la siguiente pregunta: <b>Cuál es la Edad Promedio de ingreso de Jóvenes con sanciones penales</b>
@@ -144,7 +144,7 @@ Resuelve la siguiente pregunta: <b>Cuál es la Edad Promedio de ingreso de Jóve
 visualizacion3
 ==============
 <!--ts-->
- * [tablacontenido](#tablacontenido)
+  * [Tabla Contenido](#tablacontenido)
 <!--te-->
 
 Resuelve la siguiente pregunta: <b>Cuál es la tipología Familiar de los Jóvenes con sanciones penales</b>
@@ -185,10 +185,12 @@ Resuelve la siguiente pregunta: <b>Cuál es la tipología Familiar de los Jóven
   </tr>
 </table>
 
+
 visualizacion4
 ==============
+
 <!--ts-->
- * [tablacontenido](#tablacontenido)
+  * [Tabla Contenido](#tablacontenido)
 <!--te-->
 
 Resuelve la siguiente pregunta: <b>Nivel de Consumo de los Jóvenes con sanciones penales.</b>
@@ -235,7 +237,7 @@ Resuelve la siguiente pregunta: <b>Nivel de Consumo de los Jóvenes con sancione
 visualizacion5
 ==============
 <!--ts-->
- * [tablacontenido](#tablacontenido)
+  * [Tabla Contenido](#tablacontenido)
 <!--te-->
 
 Resuelve la siguiente pregunta: <b>Nivel de Escolaridad de los Jóvenes con sanciones penales.</b>
@@ -281,7 +283,7 @@ Resuelve la siguiente pregunta: <b>Nivel de Escolaridad de los Jóvenes con sanc
 visualizacion6
 ==============
 <!--ts-->
- * [tablacontenido](#tablacontenido)
+ * [Tabla Contenido](#tablacontenido)
 <!--te-->
 
 Resuelve la siguiente pregunta: <b>¿Existe alguna relación entre tipología Familiar Vs Reincidencia en Delito?</b>
@@ -325,7 +327,7 @@ Resuelve la siguiente pregunta: <b>¿Existe alguna relación entre tipología Fa
 visualizacion7
 ==============
 <!--ts-->
- * [tablacontenido](#tablacontenido)
+ * [Tabla Contenido](#tablacontenido)
 <!--te-->
 
 Resuelve la siguiente pregunta: <b>Está asociado el Nivel de consumo con la reincidencia en un delito.</b>
@@ -369,7 +371,7 @@ Resuelve la siguiente pregunta: <b>Está asociado el Nivel de consumo con la rei
 visualizacion8
 ==============
 <!--ts-->
- * [tablacontenido](#tablacontenido)
+ * [Tabla Contenido](#tablacontenido)
 <!--te-->
 
 Resuelve la siguiente pregunta: <b>Cuál es la probabilidad de reincidencia de un Joven que tiene sanciones penales.</b>

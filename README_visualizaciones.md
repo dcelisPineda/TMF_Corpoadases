@@ -349,4 +349,23 @@ visualizacion8
 
 Resuelve la siguiente pregunta: <b>Cuál es la probabilidad de reincidencia de un Joven que tiene sanciones penales.</b>
 
+Para el entrenamiento se han seleccionado las siguientes variables por recomendación del equipo de trabajo de la corporación:
+<p>Delito</p>
+<p>Nivel de Consumo</p>
+<p>Ocupación</p>
+
+Se descargar la tipología Familiar ya que esta no se relaciona con la reincidencia del delito.
+<b><p>Variable Salida</p></b>
+<p>0 – No Reincide</p>
+<p>1 – Reincide</p>
+
+<b>se aplica los siguientes Modelos:</b>
+
+<p>Random Forest</p>
+<p>Regresión Logística</p>
+<p>SVM</p>
+
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion7.JPG)
+
+
+

@@ -20,6 +20,7 @@ Tabla Contenido
  * [visualizacion5](#visualizacion5) 
  * [visualizacion6](#visualizacion6) 
  * [visualizacion7](#visualizacion7) 
+ * [visualizacion8](#visualizacion8) 
 <!--te-->
 
 
@@ -264,7 +265,7 @@ Resuelve la siguiente pregunta: <b>Nivel de Escolaridad de los Jóvenes con sanc
 visualizacion6
 ==============
 
-Resuelve la siguiente pregunta: <b>Nivel de Escolaridad de los Jóvenes con sanciones penales.</b>
+Resuelve la siguiente pregunta: <b>¿Existe alguna relación entre tipología Familiar Vs Reincidencia en Delito?</b>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion6.JPG)
 
@@ -307,7 +308,7 @@ visualizacion7
 
 Resuelve la siguiente pregunta: <b>Está asociado el Nivel de consumo con la reincidencia en un delito.</b>
 
-![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion7.JPG)
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion61.JPG)
 
 <table>
   <tr>
@@ -343,3 +344,9 @@ Resuelve la siguiente pregunta: <b>Está asociado el Nivel de consumo con la rei
   </tr>
 </table>
 
+visualizacion8
+==============
+
+Resuelve la siguiente pregunta: <b>Cuál es la probabilidad de reincidencia de un Joven que tiene sanciones penales.</b>
+
+![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/pbvisualizacion7.JPG)

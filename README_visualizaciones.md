@@ -9,7 +9,7 @@
 	</tr>
 </table>
 
-Tabla Contenido
+tablacontenido
 ==============
 
 <!--ts-->
@@ -24,8 +24,11 @@ Tabla Contenido
 <!--te-->
 
 
-visualizacion1
+visualizacion1 
 ==============
+<!--ts-->
+ * [tablacontenido](#tablacontenido)
+<!--te-->
 
 Resuelve la siguiente pregunta: <b>Cuáles son los motivos de Ingreso de adolescentes y jóvenes con sanciones penales</b>
 
@@ -62,8 +65,12 @@ Resuelve la siguiente pregunta: <b>Cuáles son los motivos de Ingreso de adolesc
   </tr>
 </table>
 
-visualizacion2
+visualizacion2  
 ==============
+
+<!--ts-->
+ * [tablacontenido](#tablacontenido)
+<!--te-->
 
 Resuelve la siguiente pregunta: <b>Cuál es la Edad Promedio de ingreso de Jóvenes con sanciones penales</b>
 
@@ -136,6 +143,9 @@ Resuelve la siguiente pregunta: <b>Cuál es la Edad Promedio de ingreso de Jóve
 
 visualizacion3
 ==============
+<!--ts-->
+ * [tablacontenido](#tablacontenido)
+<!--te-->
 
 Resuelve la siguiente pregunta: <b>Cuál es la tipología Familiar de los Jóvenes con sanciones penales</b>
 
@@ -177,6 +187,9 @@ Resuelve la siguiente pregunta: <b>Cuál es la tipología Familiar de los Jóven
 
 visualizacion4
 ==============
+<!--ts-->
+ * [tablacontenido](#tablacontenido)
+<!--te-->
 
 Resuelve la siguiente pregunta: <b>Nivel de Consumo de los Jóvenes con sanciones penales.</b>
 
@@ -221,6 +234,9 @@ Resuelve la siguiente pregunta: <b>Nivel de Consumo de los Jóvenes con sancione
 
 visualizacion5
 ==============
+<!--ts-->
+ * [tablacontenido](#tablacontenido)
+<!--te-->
 
 Resuelve la siguiente pregunta: <b>Nivel de Escolaridad de los Jóvenes con sanciones penales.</b>
 
@@ -264,6 +280,9 @@ Resuelve la siguiente pregunta: <b>Nivel de Escolaridad de los Jóvenes con sanc
 
 visualizacion6
 ==============
+<!--ts-->
+ * [tablacontenido](#tablacontenido)
+<!--te-->
 
 Resuelve la siguiente pregunta: <b>¿Existe alguna relación entre tipología Familiar Vs Reincidencia en Delito?</b>
 
@@ -305,6 +324,9 @@ Resuelve la siguiente pregunta: <b>¿Existe alguna relación entre tipología Fa
 
 visualizacion7
 ==============
+<!--ts-->
+ * [tablacontenido](#tablacontenido)
+<!--te-->
 
 Resuelve la siguiente pregunta: <b>Está asociado el Nivel de consumo con la reincidencia en un delito.</b>
 
@@ -346,6 +368,9 @@ Resuelve la siguiente pregunta: <b>Está asociado el Nivel de consumo con la rei
 
 visualizacion8
 ==============
+<!--ts-->
+ * [tablacontenido](#tablacontenido)
+<!--te-->
 
 Resuelve la siguiente pregunta: <b>Cuál es la probabilidad de reincidencia de un Joven que tiene sanciones penales.</b>
 

@@ -9,8 +9,8 @@
 	</tr>
 </table>
 
-tablacontenido
-==============
+[tablacontenido](#tablacontenido)
+=================================
 
 <!--ts-->
  * [visualizacion1](#visualizacion1)
@@ -27,7 +27,7 @@ tablacontenido
 visualizacion1 
 ==============
 <!--ts-->
- * [tablacontenido](#tablacontenido)
+ * [Tabla Contenido](#tablacontenido)
 <!--te-->
 
 Resuelve la siguiente pregunta: <b>Cuáles son los motivos de Ingreso de adolescentes y jóvenes con sanciones penales</b>

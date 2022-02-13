@@ -9,7 +9,7 @@
 	</tr>
 </table>
 
-[tablacontenido](#tablacontenido)
+[TablaContenido](#tablacontenido)
 =================================
 
 <!--ts-->
@@ -24,8 +24,9 @@
 <!--te-->
 
 
-visualizacion1 
-==============
+[Visualizacion1](#visualizacion1) 
+==================================
+
 <!--ts-->
  * [Tabla Contenido](#tablacontenido)
 <!--te-->
@@ -65,7 +66,7 @@ Resuelve la siguiente pregunta: <b>Cuáles son los motivos de Ingreso de adolesc
   </tr>
 </table>
 
-visualizacion2  
+[Visualizacion2](#visualizacion2)  
 ==============
 
 <!--ts-->
@@ -141,8 +142,8 @@ Resuelve la siguiente pregunta: <b>Cuál es la Edad Promedio de ingreso de Jóve
   </tr>
 </table>
 
-visualizacion3
-==============
+[Visualizacion3](#visualizacion3)  
+=================================
 <!--ts-->
   * [Tabla Contenido](#tablacontenido)
 <!--te-->
@@ -186,7 +187,7 @@ Resuelve la siguiente pregunta: <b>Cuál es la tipología Familiar de los Jóven
 </table>
 
 
-visualizacion4
+[Visualizacion4](#visualizacion4)  
 ==============
 
 <!--ts-->
@@ -234,7 +235,7 @@ Resuelve la siguiente pregunta: <b>Nivel de Consumo de los Jóvenes con sancione
   </tr>
 </table>
 
-visualizacion5
+[Visualizacion5](#visualizacion5)  
 ==============
 <!--ts-->
   * [Tabla Contenido](#tablacontenido)
@@ -280,7 +281,7 @@ Resuelve la siguiente pregunta: <b>Nivel de Escolaridad de los Jóvenes con sanc
   </tr>
 </table>
 
-visualizacion6
+[Visualizacion6](#visualizacion6)  
 ==============
 <!--ts-->
  * [Tabla Contenido](#tablacontenido)
@@ -324,7 +325,7 @@ Resuelve la siguiente pregunta: <b>¿Existe alguna relación entre tipología Fa
   </tr>
 </table>
 
-visualizacion7
+[Visualizacion7](#visualizacion7)  
 ==============
 <!--ts-->
  * [Tabla Contenido](#tablacontenido)
@@ -368,8 +369,10 @@ Resuelve la siguiente pregunta: <b>Está asociado el Nivel de consumo con la rei
   </tr>
 </table>
 
-visualizacion8
+[Visualizacion8](#visualizacion8)
 ==============
+
+
 <!--ts-->
  * [Tabla Contenido](#tablacontenido)
 <!--te-->

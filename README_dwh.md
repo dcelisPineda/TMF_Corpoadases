@@ -15,7 +15,7 @@
 <!--ts-->
  * [Inicio](#inicio)
  * [TFM_DWH](#tfm_dwh)    
- * [Visualizacion 3](#visualizacion3)  
+ * [Cargar Informacion](#cargar)  
  * [Visualizacion 4](#visualizacion4) 
  * [Visualizacion 5](#visualizacion5) 
  * [Visualizacion 6](#visualizacion6) 
@@ -34,7 +34,7 @@ Este paso se incluye el procesamiento de la información, se inicia con la valid
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/dwh_inicio.JPG)
 
-<h4>CARGAR INFORMACION</h4>
+<h4>Cargar Informacion/h4>
 <table class="default">
   <tr>
     <td><b>Proceso</b></td>

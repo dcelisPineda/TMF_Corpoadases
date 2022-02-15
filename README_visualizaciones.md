@@ -24,8 +24,7 @@
 <!--te-->
 
 
-[Visualizacion1](#visualizacion1) 
-==================================
+<h4>Visualizacion1</h4>
 
 <!--ts-->
  * [Tabla Contenido](#tablacontenido)
@@ -66,8 +65,7 @@ Resuelve la siguiente pregunta: <b>Cuáles son los motivos de Ingreso de adolesc
   </tr>
 </table>
 
-[Visualizacion2](#visualizacion2)  
-==============
+<h4>Visualizacion2</h4>
 
 <!--ts-->
  * [Tabla Contenido](#tablacontenido)
@@ -142,8 +140,8 @@ Resuelve la siguiente pregunta: <b>Cuál es la Edad Promedio de ingreso de Jóve
   </tr>
 </table>
 
-[Visualizacion3](#visualizacion3)  
-=================================
+<h4>Visualizacion3</h4>
+
 <!--ts-->
   * [Tabla Contenido](#tablacontenido)
 <!--te-->
@@ -187,8 +185,8 @@ Resuelve la siguiente pregunta: <b>Cuál es la tipología Familiar de los Jóven
 </table>
 
 
-[Visualizacion4](#visualizacion4)  
-==============
+<h4>Visualizacion4</h4>
+
 
 <!--ts-->
   * [Tabla Contenido](#tablacontenido)
@@ -235,8 +233,8 @@ Resuelve la siguiente pregunta: <b>Nivel de Consumo de los Jóvenes con sancione
   </tr>
 </table>
 
-[Visualizacion5](#visualizacion5)  
-==============
+<h4>Visualizacion5</h4> 
+
 <!--ts-->
   * [Tabla Contenido](#tablacontenido)
 <!--te-->

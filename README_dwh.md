@@ -15,7 +15,7 @@
 <!--ts-->
  * [Inicio](#inicio)
  * [TFM_DWH](#tfm_dwh)    
- * [CargarInformacion](#cargarinformacion)  
+ * [Cargar Informacion](#cargarinformacion)  
  * [Visualizacion 4](#visualizacion4) 
  * [Visualizacion 5](#visualizacion5) 
  * [Visualizacion 6](#visualizacion6) 

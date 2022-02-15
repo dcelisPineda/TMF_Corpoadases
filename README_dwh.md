@@ -16,11 +16,15 @@
  * [Inicio](#inicio)
  * [TFM_DWH](#tfm_dwh)    
  * [Cargar Informacion](#cargarinformacion)  
- * [Visualizacion 4](#visualizacion4) 
- * [Visualizacion 5](#visualizacion5) 
- * [Visualizacion 6](#visualizacion6) 
- * [Visualizacion 7](#visualizacion7) 
- * [Visualizacion 8](#visualizacion8) 
+ * [Dimensiones](#dimensiones) 
+ * [Stg1_Hechos](#stg1_hechos) 
+ * [Stg2_Hechos](#stg2_hechos) 
+ * [Stg3_Hechos](#stg3_hechos) 
+ * [Stg4_Hechos](#stg4_hechos) 
+ * [Stg5_Hechos](#stg5_hechos) 
+ * [Stg6_Hechos](#stg6_hechos) 
+ * [Stg7_Hechos](#stg7_hechos) 
+ * [Fact_Corp](#fact_corp) 
 <!--te-->
 
 <h4>Inicio</h4>
@@ -61,7 +65,7 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/CargueInformacion.JPG)
-<h4>DIMENSIONES</h4>
+<h4>Dimensiones</h4>
 <table class="default">
   <tr>
     <td><b>Proceso</b></td>
@@ -108,7 +112,7 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/dimension.JPG)
-<h4>STG1_HECHOS</h4>
+<h4>Stg1_Hechos</h4>
 <table class="default">
   <tr>
     <td><b>Proceso</b></td>
@@ -138,7 +142,7 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg1.JPG)
-<h4>STG2_Hechos</h4>
+<h4>Stg2_Hechos</h4>
 <table class="default">
   <tr>
     <td><b>Proceso</b></td>
@@ -168,7 +172,7 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg2.JPG)
-<h4>STG3_Hechos</h4>
+<h4>Stg3_Hechos</h4>
 <table class="default">
   <tr>
     <td><b>Proceso</b></td>
@@ -198,7 +202,7 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg3.JPG)
 
-<h4>STG4_Hechos</h4>
+<h4>Stg4_Hechos</h4>
 <table class="default">
   <tr>
     <td><b>Proceso</b></td>
@@ -228,7 +232,7 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg4.JPG)
-<h4>STG5_HECHOS</h4>
+<h4>Stg5_Hechos</h4>
 <table class="default">
   <tr>
     <td><b>Proceso</b></td>
@@ -258,7 +262,7 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg5.JPG)
-<h4>STG6_HECHOS</h4>
+<h4>Stg6_Hechos</h4>
 <table class="default">
   <tr>
     <td><b>Proceso</b></td>
@@ -290,7 +294,7 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg6.JPG)
 
-<h4>STG7_HECHOS</h4>
+<h4>Stg7_Hechos</h4>
 <table class="default">
   <tr>
     <td><b>Proceso</b></td>
@@ -322,7 +326,7 @@ de lo contrario pasaran los registros en la tabla Public.COR_IN_BASE.</td>
 </table>
 
 ![alt text](https://github.com/dcelisPineda/TMF_Corpoadases/blob/main/IMG/stg7.JPG)
-<h4>FACT_CORP</h4>
+<h4>Fact_Corp</h4>
 <table class="default">
   <tr>
     <td><b>Proceso</b></td>

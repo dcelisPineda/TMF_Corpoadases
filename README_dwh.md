@@ -13,8 +13,8 @@
 =================================
 
 <!--ts-->
- * [Inicio 1](#inicio)
- * [Visualizacion 2](#visualizacion2)    
+ * [Inicio](#inicio)
+ * [TFM_DWH](#tfm_dwh)    
  * [Visualizacion 3](#visualizacion3)  
  * [Visualizacion 4](#visualizacion4) 
  * [Visualizacion 5](#visualizacion5) 
@@ -23,7 +23,7 @@
  * [Visualizacion 8](#visualizacion8) 
 <!--te-->
 
-<h4>Inicio(#inicio)</h4>
+<h4>Inicio</h4>
 Job Inicial con el que arranca el procesamiento de información el cual Tiene como primer paso el arranque del proceso Star,
 continuando con el procesamiento de la información y finalmente la generación de los modelos Analíticos.
 
